@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[36]:
-
-
 def get_2021_data():
     
     from bs4 import BeautifulSoup
@@ -207,10 +201,3 @@ def get_2021_data():
     data.drop(drop_MADE_cols, 1, inplace = True)
     
     return data
-
-
-# In[ ]:
-
-
-
-
