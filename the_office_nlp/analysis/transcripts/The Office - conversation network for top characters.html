@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 850px;
+            height: 450px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "Michael", "label": "Michael", "shape": "dot", "size": 10}, {"id": "Dwight", "label": "Dwight", "shape": "dot", "size": 10}, {"id": "Jim", "label": "Jim", "shape": "dot", "size": 10}, {"id": "Pam", "label": "Pam", "shape": "dot", "size": 10}, {"id": "Jan", "label": "Jan", "shape": "dot", "size": 10}, {"id": "Holly", "label": "Holly", "shape": "dot", "size": 10}, {"id": "Ryan", "label": "Ryan", "shape": "dot", "size": 10}, {"id": "Andy", "label": "Andy", "shape": "dot", "size": 10}, {"id": "Oscar", "label": "Oscar", "shape": "dot", "size": 10}, {"id": "Darryl", "label": "Darryl", "shape": "dot", "size": 10}, {"id": "Kevin", "label": "Kevin", "shape": "dot", "size": 10}, {"id": "Toby", "label": "Toby", "shape": "dot", "size": 10}, {"id": "David Wallace", "label": "David Wallace", "shape": "dot", "size": 10}, {"id": "Stanley", "label": "Stanley", "shape": "dot", "size": 10}, {"id": "Phyllis", "label": "Phyllis", "shape": "dot", "size": 10}, {"id": "Erin", "label": "Erin", "shape": "dot", "size": 10}, {"id": "Angela", "label": "Angela", "shape": "dot", "size": 10}, {"id": "Kelly", "label": "Kelly", "shape": "dot", "size": 10}, {"id": "Meredith", "label": "Meredith", "shape": "dot", "size": 10}, {"id": "Creed", "label": "Creed", "shape": "dot", "size": 10}, {"id": "Gabe", "label": "Gabe", "shape": "dot", "size": 10}, {"id": "Nellie Bertram", "label": "Nellie Bertram", "shape": "dot", "size": 10}, {"id": "Robert California", "label": "Robert California", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"from": "Michael", "to": "Dwight", "weight": 1666}, {"from": "Michael", "to": "Jim", "weight": 1048}, {"from": "Michael", "to": "Pam", "weight": 1011}, {"from": "Michael", "to": "Jan", "weight": 531}, {"from": "Michael", "to": "Holly", "weight": 385}, {"from": "Michael", "to": "Ryan", "weight": 356}, {"from": "Michael", "to": "Andy", "weight": 326}, {"from": "Michael", "to": "Oscar", "weight": 296}, {"from": "Michael", "to": "Darryl", "weight": 250}, {"from": "Michael", "to": "Kevin", "weight": 255}, {"from": "Michael", "to": "Toby", "weight": 262}, {"from": "Michael", "to": "David Wallace", "weight": 253}, {"from": "Michael", "to": "Stanley", "weight": 234}, {"from": "Michael", "to": "Phyllis", "weight": 213}, {"from": "Michael", "to": "Erin", "weight": 205}, {"from": "Michael", "to": "Angela", "weight": 180}, {"from": "Michael", "to": "Kelly", "weight": 113}, {"from": "Michael", "to": "Meredith", "weight": 113}, {"from": "Michael", "to": "Creed", "weight": 84}, {"from": "Michael", "to": "Gabe", "weight": 50}, {"from": "Dwight", "to": "Jim", "weight": 1250}, {"from": "Dwight", "to": "Andy", "weight": 445}, {"from": "Dwight", "to": "Pam", "weight": 362}, {"from": "Dwight", "to": "Angela", "weight": 364}, {"from": "Dwight", "to": "Ryan", "weight": 144}, {"from": "Dwight", "to": "Erin", "weight": 130}, {"from": "Dwight", "to": "Phyllis", "weight": 129}, {"from": "Dwight", "to": "Nellie Bertram", "weight": 110}, {"from": "Dwight", "to": "Oscar", "weight": 108}, {"from": "Dwight", "to": "Kevin", "weight": 99}, {"from": "Dwight", "to": "Darryl", "weight": 97}, {"from": "Dwight", "to": "Kelly", "weight": 81}, {"from": "Dwight", "to": "Toby", "weight": 65}, {"from": "Dwight", "to": "Stanley", "weight": 70}, {"from": "Dwight", "to": "Jan", "weight": 54}, {"from": "Dwight", "to": "Gabe", "weight": 48}, {"from": "Dwight", "to": "David Wallace", "weight": 47}, {"from": "Dwight", "to": "Meredith", "weight": 38}, {"from": "Dwight", "to": "Robert California", "weight": 36}, {"from": "Dwight", "to": "Creed", "weight": 23}, {"from": "Dwight", "to": "Holly", "weight": 14}, {"from": "Jim", "to": "Pam", "weight": 1573}, {"from": "Jim", "to": "Andy", "weight": 325}, {"from": "Jim", "to": "Kevin", "weight": 113}, {"from": "Jim", "to": "Ryan", "weight": 117}, {"from": "Jim", "to": "Darryl", "weight": 114}, {"from": "Jim", "to": "Oscar", "weight": 73}, {"from": "Jim", "to": "Phyllis", "weight": 71}, {"from": "Jim", "to": "Kelly", "weight": 61}, {"from": "Jim", "to": "Robert California", "weight": 60}, {"from": "Jim", "to": "Toby", "weight": 56}, {"from": "Jim", "to": "Stanley", "weight": 52}, {"from": "Jim", "to": "David Wallace", "weight": 40}, {"from": "Jim", "to": "Meredith", "weight": 45}, {"from": "Jim", "to": "Angela", "weight": 44}, {"from": "Jim", "to": "Erin", "weight": 32}, {"from": "Jim", "to": "Creed", "weight": 35}, {"from": "Jim", "to": "Nellie Bertram", "weight": 30}, {"from": "Jim", "to": "Gabe", "weight": 20}, {"from": "Jim", "to": "Jan", "weight": 20}, {"from": "Jim", "to": "Holly", "weight": 6}, {"from": "Pam", "to": "Andy", "weight": 167}, {"from": "Pam", "to": "Angela", "weight": 138}, {"from": "Pam", "to": "Ryan", "weight": 117}, {"from": "Pam", "to": "Kevin", "weight": 109}, {"from": "Pam", "to": "Oscar", "weight": 86}, {"from": "Pam", "to": "Erin", "weight": 77}, {"from": "Pam", "to": "Phyllis", "weight": 72}, {"from": "Pam", "to": "Kelly", "weight": 66}, {"from": "Pam", "to": "Nellie Bertram", "weight": 58}, {"from": "Pam", "to": "Toby", "weight": 54}, {"from": "Pam", "to": "Darryl", "weight": 54}, {"from": "Pam", "to": "Meredith", "weight": 43}, {"from": "Pam", "to": "Jan", "weight": 45}, {"from": "Pam", "to": "Creed", "weight": 34}, {"from": "Pam", "to": "Gabe", "weight": 27}, {"from": "Pam", "to": "Stanley", "weight": 15}, {"from": "Pam", "to": "Robert California", "weight": 16}, {"from": "Pam", "to": "Holly", "weight": 6}, {"from": "Pam", "to": "David Wallace", "weight": 4}, {"from": "Jan", "to": "Angela", "weight": 11}, {"from": "Jan", "to": "Andy", "weight": 8}, {"from": "Jan", "to": "David Wallace", "weight": 9}, {"from": "Jan", "to": "Kelly", "weight": 8}, {"from": "Jan", "to": "Kevin", "weight": 8}, {"from": "Jan", "to": "Oscar", "weight": 6}, {"from": "Jan", "to": "Phyllis", "weight": 3}, {"from": "Jan", "to": "Ryan", "weight": 6}, {"from": "Jan", "to": "Creed", "weight": 4}, {"from": "Jan", "to": "Holly", "weight": 5}, {"from": "Jan", "to": "Toby", "weight": 4}, {"from": "Jan", "to": "Meredith", "weight": 2}, {"from": "Andy", "to": "Erin", "weight": 376}, {"from": "Andy", "to": "Darryl", "weight": 223}, {"from": "Andy", "to": "Kevin", "weight": 116}, {"from": "Andy", "to": "Angela", "weight": 124}, {"from": "Andy", "to": "Oscar", "weight": 103}, {"from": "Andy", "to": "Robert California", "weight": 105}, {"from": "Andy", "to": "Phyllis", "weight": 83}, {"from": "Andy", "to": "Nellie Bertram", "weight": 74}, {"from": "Andy", "to": "David Wallace", "weight": 57}, {"from": "Andy", "to": "Stanley", "weight": 53}, {"from": "Andy", "to": "Kelly", "weight": 52}, {"from": "Andy", "to": "Meredith", "weight": 51}, {"from": "Andy", "to": "Gabe", "weight": 44}, {"from": "Andy", "to": "Toby", "weight": 42}, {"from": "Andy", "to": "Ryan", "weight": 28}, {"from": "Andy", "to": "Creed", "weight": 21}, {"from": "Andy", "to": "Holly", "weight": 3}, {"from": "Erin", "to": "Kevin", "weight": 47}, {"from": "Erin", "to": "Gabe", "weight": 41}, {"from": "Erin", "to": "Ryan", "weight": 28}, {"from": "Erin", "to": "Phyllis", "weight": 26}, {"from": "Erin", "to": "Oscar", "weight": 23}, {"from": "Erin", "to": "Nellie Bertram", "weight": 23}, {"from": "Erin", "to": "Angela", "weight": 21}, {"from": "Erin", "to": "Robert California", "weight": 25}, {"from": "Erin", "to": "Darryl", "weight": 16}, {"from": "Erin", "to": "Kelly", "weight": 15}, {"from": "Erin", "to": "Meredith", "weight": 11}, {"from": "Erin", "to": "Stanley", "weight": 10}, {"from": "Erin", "to": "Holly", "weight": 8}, {"from": "Erin", "to": "Toby", "weight": 2}, {"from": "Erin", "to": "Creed", "weight": 4}, {"from": "Erin", "to": "David Wallace", "weight": 2}, {"from": "Holly", "to": "Kevin", "weight": 24}, {"from": "Holly", "to": "Oscar", "weight": 12}, {"from": "Holly", "to": "Phyllis", "weight": 8}, {"from": "Holly", "to": "Meredith", "weight": 3}, {"from": "Holly", "to": "Kelly", "weight": 5}, {"from": "Holly", "to": "Darryl", "weight": 2}, {"from": "Holly", "to": "Toby", "weight": 4}, {"from": "Holly", "to": "Creed", "weight": 2}, {"from": "Holly", "to": "Angela", "weight": 3}, {"from": "Holly", "to": "Gabe", "weight": 1}, {"from": "Holly", "to": "Ryan", "weight": 1}, {"from": "Holly", "to": "Stanley", "weight": 1}, {"from": "Angela", "to": "Oscar", "weight": 170}, {"from": "Angela", "to": "Kevin", "weight": 127}, {"from": "Angela", "to": "Phyllis", "weight": 60}, {"from": "Angela", "to": "Kelly", "weight": 30}, {"from": "Angela", "to": "Meredith", "weight": 30}, {"from": "Angela", "to": "Toby", "weight": 13}, {"from": "Angela", "to": "Creed", "weight": 12}, {"from": "Angela", "to": "Stanley", "weight": 7}, {"from": "Angela", "to": "Nellie Bertram", "weight": 7}, {"from": "Angela", "to": "Robert California", "weight": 5}, {"from": "Angela", "to": "Darryl", "weight": 3}, {"from": "Angela", "to": "Ryan", "weight": 2}, {"from": "Angela", "to": "Gabe", "weight": 3}, {"from": "Ryan", "to": "Kelly", "weight": 138}, {"from": "Ryan", "to": "Kevin", "weight": 26}, {"from": "Ryan", "to": "Oscar", "weight": 20}, {"from": "Ryan", "to": "Toby", "weight": 16}, {"from": "Ryan", "to": "Stanley", "weight": 13}, {"from": "Ryan", "to": "Robert California", "weight": 9}, {"from": "Ryan", "to": "Creed", "weight": 9}, {"from": "Ryan", "to": "Darryl", "weight": 6}, {"from": "Ryan", "to": "Nellie Bertram", "weight": 7}, {"from": "Ryan", "to": "Phyllis", "weight": 7}, {"from": "Ryan", "to": "Meredith", "weight": 5}, {"from": "Ryan", "to": "Gabe", "weight": 5}, {"from": "Ryan", "to": "David Wallace", "weight": 2}, {"from": "Oscar", "to": "Kevin", "weight": 115}, {"from": "Oscar", "to": "Phyllis", "weight": 34}, {"from": "Oscar", "to": "Toby", "weight": 18}, {"from": "Oscar", "to": "Kelly", "weight": 17}, {"from": "Oscar", "to": "Meredith", "weight": 20}, {"from": "Oscar", "to": "Darryl", "weight": 21}, {"from": "Oscar", "to": "Stanley", "weight": 16}, {"from": "Oscar", "to": "Creed", "weight": 15}, {"from": "Oscar", "to": "Robert California", "weight": 10}, {"from": "Oscar", "to": "Gabe", "weight": 9}, {"from": "Oscar", "to": "Nellie Bertram", "weight": 5}, {"from": "Oscar", "to": "David Wallace", "weight": 2}, {"from": "Darryl", "to": "Kevin", "weight": 40}, {"from": "Darryl", "to": "Toby", "weight": 26}, {"from": "Darryl", "to": "Phyllis", "weight": 17}, {"from": "Darryl", "to": "Nellie Bertram", "weight": 17}, {"from": "Darryl", "to": "Kelly", "weight": 17}, {"from": "Darryl", "to": "Gabe", "weight": 17}, {"from": "Darryl", "to": "Meredith", "weight": 6}, {"from": "Darryl", "to": "Robert California", "weight": 1}, {"from": "Darryl", "to": "Creed", "weight": 1}, {"from": "Darryl", "to": "Stanley", "weight": 2}, {"from": "Kevin", "to": "Meredith", "weight": 21}, {"from": "Kevin", "to": "Robert California", "weight": 24}, {"from": "Kevin", "to": "Phyllis", "weight": 24}, {"from": "Kevin", "to": "Toby", "weight": 20}, {"from": "Kevin", "to": "Kelly", "weight": 18}, {"from": "Kevin", "to": "Nellie Bertram", "weight": 14}, {"from": "Kevin", "to": "Gabe", "weight": 16}, {"from": "Kevin", "to": "Creed", "weight": 12}, {"from": "Kevin", "to": "Stanley", "weight": 12}, {"from": "Kevin", "to": "David Wallace", "weight": 1}, {"from": "Toby", "to": "Nellie Bertram", "weight": 33}, {"from": "Toby", "to": "Kelly", "weight": 18}, {"from": "Toby", "to": "Meredith", "weight": 11}, {"from": "Toby", "to": "Gabe", "weight": 13}, {"from": "Toby", "to": "Robert California", "weight": 3}, {"from": "Toby", "to": "Stanley", "weight": 5}, {"from": "Toby", "to": "Creed", "weight": 2}, {"from": "Toby", "to": "Phyllis", "weight": 2}, {"from": "Toby", "to": "David Wallace", "weight": 1}, {"from": "David Wallace", "to": "Robert California", "weight": 5}, {"from": "David Wallace", "to": "Phyllis", "weight": 1}, {"from": "David Wallace", "to": "Meredith", "weight": 1}, {"from": "David Wallace", "to": "Kelly", "weight": 1}, {"from": "David Wallace", "to": "Stanley", "weight": 1}, {"from": "Stanley", "to": "Phyllis", "weight": 49}, {"from": "Stanley", "to": "Nellie Bertram", "weight": 9}, {"from": "Stanley", "to": "Kelly", "weight": 6}, {"from": "Stanley", "to": "Meredith", "weight": 6}, {"from": "Stanley", "to": "Creed", "weight": 5}, {"from": "Stanley", "to": "Robert California", "weight": 3}, {"from": "Stanley", "to": "Gabe", "weight": 2}, {"from": "Phyllis", "to": "Meredith", "weight": 17}, {"from": "Phyllis", "to": "Kelly", "weight": 14}, {"from": "Phyllis", "to": "Creed", "weight": 9}, {"from": "Phyllis", "to": "Nellie Bertram", "weight": 7}, {"from": "Phyllis", "to": "Gabe", "weight": 3}, {"from": "Phyllis", "to": "Robert California", "weight": 3}, {"from": "Kelly", "to": "Meredith", "weight": 11}, {"from": "Kelly", "to": "Gabe", "weight": 13}, {"from": "Kelly", "to": "Robert California", "weight": 7}, {"from": "Kelly", "to": "Creed", "weight": 5}, {"from": "Kelly", "to": "Nellie Bertram", "weight": 1}, {"from": "Meredith", "to": "Creed", "weight": 15}, {"from": "Meredith", "to": "Nellie Bertram", "weight": 6}, {"from": "Meredith", "to": "Gabe", "weight": 4}, {"from": "Meredith", "to": "Robert California", "weight": 3}, {"from": "Robert California", "to": "Nellie Bertram", "weight": 26}, {"from": "Robert California", "to": "Gabe", "weight": 6}, {"from": "Robert California", "to": "Creed", "weight": 3}, {"from": "Nellie Bertram", "to": "Gabe", "weight": 8}, {"from": "Nellie Bertram", "to": "Creed", "weight": 4}, {"from": "Creed", "to": "Gabe", "weight": 3}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
