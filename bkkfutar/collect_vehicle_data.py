@@ -47,7 +47,7 @@ routes.drop(['description'], 1, inplace = True)
 vehicles_df = vehicle_df_creator(vehicles)
 
 
-drop_cols = ['vehicleId', 'stopId', 'label', 'tripId', 'longName', 'innerInternal', 'location', 'type', 'routeId', 'id']
+drop_cols = ['vehicleId', 'stopId', 'label', 'longName', 'innerInternal', 'location', 'type', 'routeId', 'id'] #'tripId', 
 for i in drop_cols:
     if i in vehicles_df.columns:
         vehicles_df.drop(i, 1, inplace = True)
