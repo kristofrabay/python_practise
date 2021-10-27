@@ -1,0 +1,923 @@
+licensePlate,model,vehicleRouteType,tripId,lat,lon,shortName,From,To
+V1440,Ganz csuklós,TRAM,BKK_C21846949,47.483555,19.053345,47,Városház tér,Deák Ferenc tér M
+V4063,Tátra T5C5K,TRAM,BKK_C3474325970,47.48741,19.05005,56A,Móricz Zs. körtér M,Hűvösvölgy
+LOV873,VanHool AG318 csuklós autóbusz,BUS,BKK_C36950577,47.46445,19.126354,123A,Szentlőrinci úti ltp.,Határ út M
+V1441,Ganz csuklós,TRAM,,47.469975,19.024443,,,
+V4061,Tátra T5C5K,TRAM,BKK_C3474325958,47.48291,19.03015,61,Móricz Zs. körtér M,Hűvösvölgy
+V1448,Ganz csuklós,TRAM,BKK_C36350557,47.497383,19.05552,49,Kelenföld vasútállomás M,Deák Ferenc tér M
+V2209,CAF 5 modulos szerelvény,TRAM,BKK_C349541281,47.457264,19.113,3,Mexikói út M,Gubacsi út / Határ út
+MPW619,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.42699,19.15868,,,
+V2208,CAF 5 modulos szerelvény,TRAM,BKK_C349541293,47.495945,19.13833,3,Mexikói út M,Gubacsi út / Határ út
+MPW621,VanHool A330 CNG típusú szóló autóbusz,BUS,BKK_C36119167,47.44312,19.186275,217,Szarvas csárda tér,Kőbánya alsó vasútáll.
+V2205,CAF 5 modulos szerelvény,TRAM,BKK_C349541263,47.465214,19.122807,3,Mexikói út M,Gubacsi út / Határ út
+V2207,CAF 5 modulos szerelvény,TRAM,,47.46561,19.122513,3,Mexikói út M,Gubacsi út / Határ út
+MPW617,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.42786,19.157219,,,
+V1445,Ganz csuklós,TRAM,BKK_C218463743J,47.470234,19.025103,47,Városház tér,Deák Ferenc tér M
+V2206,CAF 5 modulos szerelvény,TRAM,BKK_C349541287,47.478977,19.123917,3,Mexikói út M,Gubacsi út / Határ út
+LOV877,VanHool AG318 csuklós autóbusz,BUS,BKK_C36950573,47.41853,19.13842,123A,Szentlőrinci úti ltp.,Határ út M
+MPW616,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.428036,19.1581,,,
+LOV881,VanHool AG318 csuklós autóbusz,BUS,BKK_LOV881-BDTnFv0tS7mRSBYHJfnU5w,47.42883,19.155754,,,
+V1450,Ganz csuklós,TRAM,BKK_C218461302,47.487167,19.057793,47,Városház tér,Deák Ferenc tér M
+V2211,CAF 5 modulos szerelvény,TRAM,BKK_C349541326,47.50915,19.129652,3,Mexikói út M,Gubacsi út / Határ út
+V4073,Tátra T5C5K,TRAM,BKK_C348097360,47.490784,19.01617,59A,Márton Áron tér,Széll Kálmán tér M
+BPO231,Ikarus 412-es típusú autóbusz,BUS,BKK_C35335402,47.408928,19.115805,135,"Soroksár, IKEA áruház",Millenniumtelep H
+V2210,CAF 5 modulos szerelvény,TRAM,BKK_C349541299,47.522373,19.101625,3,Mexikói út M,Gubacsi út / Határ út
+V2219,CAF 5 modulos szerelvény,TRAM,BKK_C349541311,47.51908,19.091223,3,Mexikói út M,Gubacsi út / Határ út
+BPO234,Ikarus 412-es típusú autóbusz,BUS,BKK_C369922614,47.4999,19.105286,95,Felsőcsatári köz,Puskás Ferenc Stadion M
+MPW626,VanHool A330 CNG típusú szóló autóbusz,BUS,BKK_C35157279,47.460644,19.151272,68,"Akadémiaújtelep, 525. tér",Vas Gereben utca
+V2218,CAF 5 modulos szerelvény,TRAM,BKK_C349541269,47.44385,19.096275,3,Mexikói út M,Gubacsi út / Határ út
+V4313,Tátra T5C5K,TRAM,BKK_C348931069,47.46343,19.023008,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+V4042,Tátra T5C5K,TRAM,BKK_C35245146,47.554462,19.09064,14,"Káp.megyer, Megyeri út",Lehel tér M
+LOV851,VanHool AG318 csuklós autóbusz,BUS,,47.42818,19.156435,,,
+LOV857,VanHool AG318 csuklós autóbusz,BUS,,47.42846,19.156202,,,
+BPO552,Ikarus 435-ös típusú autóbusz,BUS,,47.500946,19.236614,,,
+BPO551,Ikarus 435-ös típusú autóbusz,BUS,,47.50144,19.236258,,,
+V4324,Tátra T5C5K,TRAM,BKK_C348095497,47.49326,19.017094,59A,Márton Áron tér,Széll Kálmán tér M
+LOV860,VanHool AG318 csuklós autóbusz,BUS,BKK_C36950571,47.420227,19.136284,123,"Soroksár, IKEA áruház",Határ út M
+LOV861,VanHool AG318 csuklós autóbusz,BUS,BKK_LOV861-RRRY8_dKRb2c9UFFd8T8Ag,47.42826,19.157854,,,
+V4326,Tátra T5C5K,TRAM,BKK_C3474325965,47.47624,19.04704,56A,Móricz Zs. körtér M,Hűvösvölgy
+V2103,CAF 9 modulos szerelvény,TRAM,BKK_C348931078,47.51894,19.088337,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+BPO846,Ikarus 280-as típusú autóbusz,BUS,BKK_C360871084,47.515415,19.075813,30,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+LOV858,VanHool AG318 csuklós autóbusz,BUS,BKK_C365812046,47.44615,19.126743,54,"Péterimajor, Víztorony tér",Boráros tér H
+V2111,CAF 9 modulos szerelvény,TRAM,BKK_1634668474658,47.536587,19.057684,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+V1433,Ganz csuklós,TRAM,BKK_C36350551,47.47161,19.030825,49,Kelenföld vasútállomás M,Deák Ferenc tér M
+V2106,CAF 9 modulos szerelvény,TRAM,BKK_C34893979,47.470333,19.089222,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+V2105,CAF 9 modulos szerelvény,TRAM,BKK_C34893968,47.54399,19.035944,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+LOV864,VanHool AG318 csuklós autóbusz,BUS,,47.42856,19.156057,,,
+V2108,CAF 9 modulos szerelvény,TRAM,BKK_C348931082,47.484436,19.105911,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+LOV865,VanHool AG318 csuklós autóbusz,BUS,,47.428192,19.156372,,,
+LOV866,VanHool AG318 csuklós autóbusz,BUS,BKK_C367251818,47.436756,19.172157,136E,Havanna utcai lakótelep,Kőbánya-Kispest M
+MRZ246,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.431763,19.04372,,,
+V4029,Tátra T5C5K,TRAM,,47.524265,19.07993,,,
+MRZ245,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.457047,19.02911,,,
+V4297,Tátra T5C5K,TRAM,BKK_C36352499,47.5057,19.039364,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+V4304,Tátra T5C5K,TRAM,,47.55299,19.093378,,,
+V4031,Tátra T5C5K,TRAM,BKK_C36352477,47.47713,19.047241,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+V4310,Tátra T5C5K,TRAM,BKK_C3474325977,47.506683,19.024405,61,Móricz Zs. körtér M,Hűvösvölgy
+V4305,Tátra T5C5K,TRAM,BKK_C35245147,47.517647,19.063055,14,"Káp.megyer, Megyeri út",Lehel tér M
+V4278,Tátra T5C5K,TRAM,BKK_C36352505,47.548054,19.029417,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+V4272,Tátra T5C5,TRAM,BKK_C348931081,47.461697,19.04774,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+BPO808,Ikarus 280-as típusú autóbusz,BUS,BKK_C360871059,47.52577,19.08301,30,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+V4257,Tátra T5C5K,TRAM,BKK_C35245301,47.55471,19.090084,14,"Káp.megyer, Megyeri út",Lehel tér M
+PHG656,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.501675,19.234858,,,
+PDN684,VanHool NewA330 szóló autóbusz,BUS,BKK_C36119166,47.472027,19.14251,217,Szarvas csárda tér,Kőbánya alsó vasútáll.
+NCA437,MERCEDES Conecto csuklós,BUS,BKK_C365512423,47.537304,19.135231,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+NCA438,MERCEDES Conecto csuklós,BUS,BKK_C365621026,47.497265,19.13779,97E,Rákoskert sugárút,Örs vezér tere M H
+PHG660,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,BKK_C358261356,47.490242,19.1525,162,"Maglód, Auchan áruház",Kőbánya alsó vasútáll.
+NCA436,MERCEDES Conecto csuklós,BUS,BKK_C38109478,47.49701,19.055744,100E,Liszt Ferenc Airport 2,Deák Ferenc tér M
+PHG657,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,BKK_C358261363,47.485756,19.213999,162A,"Rákoskeresztúr, városkp.",Kőbánya alsó vasútáll.
+NCA433,MERCEDES Conecto csuklós,BUS,BKK_C38109468,47.43261,19.26181,100E,Liszt Ferenc Airport 2,Deák Ferenc tér M
+PKN601,MERCEDES Conecto szóló (BKV),BUS,,47.50114,19.235277,,,
+PKN603,MERCEDES Conecto szóló (BKV),BUS,BKK_C364212089,47.503586,19.13992,44,Centenáriumi lakótelep,Örs vezér tere M H
+PKN604,MERCEDES Conecto szóló (BKV),BUS,BKK_PKN604-p20ve2H7SyarDz8_GjCMEQ,47.500835,19.236526,,,
+PHG645,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,,47.501617,19.2351,,,
+NAY349,MAN Lions City A21 (ArrivaBus),BUS,BKK_C350343608,47.39168,19.10613,71,Szentmiklósi út,Szent Imre tér
+NAY350,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369738654,47.438534,19.146109,194,Gloriett lakótelep,Határ út M
+PHG641,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,,47.50128,19.234287,,,
+NAY347,MAN Lions City A21 (ArrivaBus),BUS,,47.44216,19.081705,,,
+NAY348,MAN Lions City A21 (ArrivaBus),BUS,,47.442127,19.081785,,,
+PHG639,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,BKK_C28043861,47.520954,19.166737,144,"R.szentmihály, Csömöri út",Örs vezér tere M H
+NAY345,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369601246,47.462833,19.14899,182,Alacskai úti lakótelep,Kőbánya-Kispest M
+PHG640,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,BKK_C0803691,47.520462,19.218548,175,Cinkota H,"Újpalota, Szentmihályi út"
+NAY343,MAN Lions City A21 (ArrivaBus),BUS,BKK_C32680568,47.432117,19.070572,35,"Csepel, Csillagtelep",Szentlőrinci úti ltp.
+NAY344,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369738639,47.46513,19.127224,194,Gloriett lakótelep,Határ út M
+NAY341,MAN Lions City A21 (ArrivaBus),BUS,BKK_C344561565,47.422684,19.068933,159,Szent László utcai ltp.,"Csepel, Szent Imre tér"
+PHG636,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,BKK_C28043862,47.504734,19.136871,144,"R.szentmihály, Csömöri út",Örs vezér tere M H
+NCA430,MERCEDES Conecto csuklós,BUS,BKK_C346219581,47.4227,19.078669,151,Kőbánya alsó vasútáll.,"Csepel, Határ utca"
+PHG654,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.50143,19.234234,,,
+PHG655,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.501053,19.236748,,,
+PHG651,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,BKK_C358261337,47.48359,19.127468,162A,"Rákoskeresztúr, városkp.",Kőbánya alsó vasútáll.
+PHG648,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,BKK_PHG648-0thF_bu5Ty2zdsgKiN2h0w,47.50176,19.235062,,,
+NAY354,MAN Lions City A21 (ArrivaBus),BUS,BKK_C32680573,47.41027,19.060495,35,"Csepel, Csillagtelep",Szentlőrinci úti ltp.
+NAY355,MAN Lions City A21 (ArrivaBus),BUS,,47.44298,19.082874,,,
+NAY352,MAN Lions City A21 (ArrivaBus),BUS,BKK_C350342184,47.430824,19.07065,152,Hollandi út,Szent Imre tér
+PHG646,"Volvo hibrid szóló (BKV, 2 ajt) autóbusz",BUS,,47.50144,19.234758,,,
+PHG625,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.50124,19.234665,,,
+NAY329,MAN Lions City A21 (ArrivaBus),BUS,BKK_C306213796,47.43666,19.039236,250,Savoya Park,Kelenföld vasútállomás M
+PHG623,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.501373,19.235023,,,
+NCA482,MERCEDES Conecto csuklós,BUS,BKK_C328362291,47.42009,19.07338,148,"Csepel, Soroksári rév",Kőbánya-Kispest M
+PHG621,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,BKK_C279983822,47.51701,19.170412,92,Kistarcsa - Auchan Liget,Rákosszentmihály vasútáll.
+V2256,CAF 5 modulos szerelvény,TRAM,BKK_C3483816738,47.435966,19.042175,17,Savoya Park,Bécsi út / Vörösvári út
+NCA480,MERCEDES Conecto csuklós,BUS,BKK_C326931187,47.426632,19.108694,36,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+NCA481,MERCEDES Conecto csuklós,BUS,,47.442303,19.082273,,,
+NCA428,MERCEDES Conecto csuklós,BUS,,47.442738,19.081821,,,
+V2251,CAF 5 modulos szerelvény,TRAM,BKK_C3483816708,47.50453,19.024332,17,Savoya Park,Bécsi út / Vörösvári út
+NCA478,MERCEDES Conecto csuklós,BUS,BKK_C356093,47.44307,19.082504,909,"Kispest, Kossuth tér",Deák Ferenc tér M
+V2252,CAF 5 modulos szerelvény,TRAM,,47.440315,19.035194,,,
+NCA426,MERCEDES Conecto csuklós,BUS,BKK_C328362252,47.446285,19.11676,148,"Csepel, Soroksári rév",Kőbánya-Kispest M
+V2250,CAF 5 modulos szerelvény,TRAM,BKK_C3483816760,47.548508,19.029068,17,Savoya Park,Bécsi út / Vörösvári út
+NCA475,MERCEDES Conecto csuklós,BUS,BKK_C35199867,47.4735,18.992252,139,Széll Kálmán tér M,Gazdagréti tér
+V2248,CAF 5 modulos szerelvény,TRAM,BKK_C34931757,47.490227,19.046932,19,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+NAY340,MAN Lions City A21 (ArrivaBus),BUS,,47.44246,19.082697,,,
+PHG632,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.484226,19.217613,,,
+NAY339,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369738649,47.436424,19.156414,194,Gloriett lakótelep,Határ út M
+849-833,MIXA-MIXA,SUBURBAN_RAILWAY,BKK_H31283_227,47.41994,19.065145,H7,Csepel,Boráros tér
+PHG630,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,BKK_C364212086,47.50921,19.180695,44,Centenáriumi lakótelep,Örs vezér tere M H
+PHG631,"Volvo hibrid szóló (BKV, 3 ajt) autóbusz",BUS,,47.4946,19.239363,,,
+NAY335,MAN Lions City A21 (ArrivaBus),BUS,,47.44218,19.081762,,,
+NCA414,MERCEDES Conecto csuklós,BUS,BKK_C326931180,47.444855,19.174376,36,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+NCA415,MERCEDES Conecto csuklós,BUS,BKK_NCA415-K8Y3rpF0S8SXFI-g4NAYKw,47.443413,19.080542,,,
+V2236,CAF 5 modulos szerelvény,TRAM,BKK_C34931762,47.534378,19.03473,19,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+MHU772,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3552828252,47.53253,19.06731,106,Római úti lakótelep,Göncz Árpád városkp. M
+NCA411,MERCEDES Conecto csuklós,BUS,BKK_C346219521,47.467564,19.151617,151,Kőbánya alsó vasútáll.,"Csepel, Határ utca"
+921,MXA,SUBURBAN_RAILWAY,BKK_H10718_146,47.516117,19.207941,H8,Gödöllő,Örs vezér tere
+PDN650,MAN Lions City A21 (ArrivaBus),BUS,,47.458183,19.028217,,,
+MHU767,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514721671,47.562305,19.10688,196A,"Újpalota, Szentmihályi út",Újpest-városkapu M
+NCA408,MERCEDES Conecto csuklós,BUS,BKK_C346219493,47.44337,19.082739,151,Kőbánya alsó vasútáll.,"Csepel, Határ utca"
+PDN609,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36789845,47.406643,19.014448,150,Budatétény vá. (Campona),Móricz Zs. körtér M
+MHU766,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365512428,47.464764,19.017778,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+NCA409,MERCEDES Conecto csuklós,BUS,BKK_NCA409-bjN9t8_bTfS6i3FwbSvF5g,47.478424,19.100658,,,
+V2114,CAF 9 modulos szerelvény,TRAM,BKK_C34893980,47.510998,19.099483,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+MHU769,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C364671507,47.473198,19.052519,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+PDN649,MAN Lions City A21 (ArrivaBus),BUS,,47.457832,19.028591,,,
+MHU764,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365512298,47.57153,19.134695,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+NCA425,MERCEDES Conecto csuklós,BUS,BKK_C328362264,47.420868,19.072254,148,"Csepel, Soroksári rév",Kőbánya-Kispest M
+NCA423,MERCEDES Conecto csuklós,BUS,BKK_C328362234,47.462337,19.14859,148,"Csepel, Soroksári rév",Kőbánya-Kispest M
+V2246,CAF 5 modulos szerelvény,TRAM,BKK_C3483816742,47.441685,19.036564,17,Savoya Park,Bécsi út / Vörösvári út
+NCA473,MERCEDES Conecto csuklós,BUS,,47.458214,19.027428,,,
+NCA424,MERCEDES Conecto csuklós,BUS,BKK_C326931226,47.41277,19.06803,36,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+NCA421,MERCEDES Conecto csuklós,BUS,BKK_C328362297,47.452526,19.110083,148,"Csepel, Soroksári rév",Kőbánya-Kispest M
+V2244,CAF 5 modulos szerelvény,TRAM,BKK_C3483816748,47.48713,19.024612,17,Savoya Park,Bécsi út / Vörösvári út
+MHU779,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3552828234,47.60153,19.05821,34,"B.megyer, Újmegyeri tér",Göncz Árpád városkp. M
+V2241,CAF 5 modulos szerelvény,TRAM,BKK_C34931752,47.465794,19.02191,19,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+V2238,CAF 5 modulos szerelvény,TRAM,BKK_C34931744,47.541237,19.030634,19,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+NCA465,MERCEDES Conecto csuklós,BUS,,47.443672,19.083553,,,
+NCA416,MERCEDES Conecto csuklós,BUS,BKK_C326931233,47.42051,19.125774,36,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+NAY326,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032294,47.457375,19.03339,114,"Baross G.-telep, Ispiláng u.",Móricz Zs. körtér M
+T9102,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,,47.491196,19.115143,,,
+PDN636,MAN Lions City A21 (ArrivaBus),BUS,,47.45787,19.028385,,,
+PDN637,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032273,47.414177,18.996845,114,"Baross G.-telep, Ispiláng u.",Móricz Zs. körtér M
+NAY327,MAN Lions City A21 (ArrivaBus),BUS,,47.45785,19.029013,,,
+MHU753,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.57115,19.135878,,,
+PDN634,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36789853,47.475674,19.047194,150,Budatétény vá. (Campona),Móricz Zs. körtér M
+NCV293,Karsan ATAK típusú midi autóbusz,BUS,BKK_C355503051,47.477993,19.046507,27,Citadella - Sánc utca,Móricz Zs. körtér M
+T9100,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,,47.49173,19.115452,,,
+T9101,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,BKK_C36499610,47.507835,19.056135,72M,Zugló vasútállomás,Orczy tér
+NCV294,Karsan ATAK típusú midi autóbusz,BUS,BKK_C36480754,47.501945,19.017775,39,Goldmark Károly utca,Batthyány tér M H
+RYH811,Ikarus E91 típusú midi autóbusz,BUS,BKK_C35285407,47.507545,19.02327,149,Fenyves utca,Széll Kálmán tér M
+NTM430,Modulo M108d szóló autóbusz (rend.tart.),BUS,,47.4737,19.027966,,,
+T8108,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.49104,19.11474,,,
+NAY322,MAN Lions City A21 (ArrivaBus),BUS,,47.44246,19.082647,,,
+NCV291,Karsan ATAK típusú midi autóbusz,BUS,,47.473686,19.028542,,,
+NCV292,Karsan ATAK típusú midi autóbusz,BUS,BKK_C3664198,47.49812,18.989513,60,Széchenyi-hegy,Svábhegy
+PDN633,MAN Lions City A21 (ArrivaBus),BUS,BKK_C306213800,47.453224,19.017494,250,Savoya Park,Kelenföld vasútállomás M
+NTM431,Modulo M108d szóló autóbusz (rend.tart.),BUS,,47.474045,19.026749,,,
+T8106,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C37449683,47.525246,19.060822,75,Jászai Mari tér,Puskás Ferenc Stadion M
+PDN631,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36789840,47.461967,19.0153,150,Budatétény vá. (Campona),Móricz Zs. körtér M
+T8107,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C358882517,47.50199,19.077677,76,Jászai Mari tér,Keleti pályaudvar M
+MHU751,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514721344,47.55963,19.082386,196A,"Újpalota, Szentmihályi út",Újpest-városkapu M
+NAY321,MAN Lions City A21 (ArrivaBus),BUS,,47.442062,19.081938,,,
+PDN638,MAN Lions City A21 (ArrivaBus),BUS,BKK_C34475643,47.420555,19.01406,141,Savoya Park,Kelenföld vasútállomás M
+NCV287,Karsan ATAK típusú midi autóbusz,BUS,BKK_C358805076,47.50734,19.026224,16,Clark Ádám tér,Széll Kálmán tér M
+MHU746,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365862209,47.55728,19.100695,20E,Keleti pályaudvar M,"Káp.megyer, Szilas-patak"
+NTM426,Modulo M108d szóló autóbusz (rend.tart.),BUS,BKK_C369912118,47.490257,19.04404,112,Bosnyák tér,Thomán István utca
+T8104,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.491974,19.116058,,,
+T8105,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C35004404,47.524708,19.133623,77,Öv utca / Egressy út,Puskás Ferenc Stadion M
+MHU748,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365512358,47.491894,19.05246,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+NCV285,Karsan ATAK típusú midi autóbusz,BUS,BKK_C358805081,47.507202,19.027166,16,Clark Ádám tér,Széll Kálmán tér M
+NTM424,Modulo M108d szóló autóbusz (rend.tart.),BUS,,47.47384,19.02905,,,
+T8103,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C37449685,47.501324,19.107698,75,Jászai Mari tér,Puskás Ferenc Stadion M
+MHU747,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C364671449,47.51977,19.112347,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+NTM422,Modulo M108d szóló autóbusz (rend.tart.),BUS,,47.473602,19.027973,,,
+NTM423,Modulo M108d szóló autóbusz (rend.tart.),BUS,BKK_C354313356,47.506313,19.0649,178,Gyöngyösi utca M,Naphegy tér
+NCA405,MERCEDES Conecto csuklós,BUS,BKK_NCA405-hNrnYSloSIa83i8aNxtyTg,47.441647,19.072388,,,
+PDN648,MAN Lions City A21 (ArrivaBus),BUS,BKK_C34475636,47.45839,19.008598,141,Savoya Park,Kelenföld vasútállomás M
+PDN645,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032256,47.45105,19.037638,114,"Baross G.-telep, Ispiláng u.",Móricz Zs. körtér M
+NCA403,MERCEDES Conecto csuklós,BUS,BKK_C346219514,47.435013,19.076046,151,Kőbánya alsó vasútáll.,"Csepel, Határ utca"
+MHU761,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C369981023,47.455185,19.033278,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+NCA456,MERCEDES Conecto csuklós,BUS,BKK_NCA456-pXr_8qBiR7ORFGq539BR_w,47.4358,19.043203,,,
+PDN644,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032232,47.47747,19.048016,213,Donát-hegy,Móricz Zs. körtér M
+MHU760,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514721667,47.576912,19.081347,196,"Újpalota, Szentmihályi út","Újpest, Fóti út"
+T9107,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,,47.491207,19.115786,,,
+MHU762,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3552828246,47.53996,19.044588,34,"B.megyer, Újmegyeri tér",Göncz Árpád városkp. M
+T9108,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,,47.49136,19.118254,,,
+NCV298,Karsan ATAK típusú midi autóbusz,BUS,BKK_C355503050,47.477825,19.045906,27,Citadella - Sánc utca,Móricz Zs. körtér M
+MHU756,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C369981071,47.494587,19.06107,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+T9106,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,,47.491787,19.117952,,,
+NCV299,Karsan ATAK típusú midi autóbusz,BUS,BKK_C358805077,47.49822,19.04011,16,Clark Ádám tér,Széll Kálmán tér M
+T9103,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,BKK_C36499602,47.499172,19.054716,72M,Zugló vasútállomás,Orczy tér
+T9104,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,BKK_C36499615,47.489735,19.089684,72M,Zugló vasútállomás,Orczy tér
+NCV297,Karsan ATAK típusú midi autóbusz,BUS,BKK_C358161004,47.50882,19.001034,128,Regőczi István tér,Széll Kálmán tér M
+MHU758,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_MHU758-gmuUzoXuQtyijUcZQOPDWA,47.57179,19.133837,,,
+NCV295,Karsan ATAK típusú midi autóbusz,BUS,BKK_C358161015,47.507683,19.024635,128,Regőczi István tér,Széll Kálmán tér M
+MHU755,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365862303,47.577324,19.114449,20E,Keleti pályaudvar M,"Káp.megyer, Szilas-patak"
+NAY371,MAN Lions City A21 (ArrivaBus),BUS,BKK_C24066185,47.38458,19.017714,138,Budatétény vá. (Campona),"Csepel, Szent Imre tér"
+MHU732,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.571358,19.134499,,,
+MHU731,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514721997,47.54218,19.151056,196,"Újpalota, Szentmihályi út","Újpest, Fóti út"
+RCT311,VanHool  NewAG300 csuklós autóbusz,BUS,,47.42689,19.158545,,,
+NAY369,MAN Lions City A21 (ArrivaBus),BUS,,47.44246,19.082785,,,
+MHU733,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514722005,47.55924,19.122234,196,"Újpalota, Szentmihályi út","Újpest, Fóti út"
+RCT312,VanHool  NewAG300 csuklós autóbusz,BUS,,47.426968,19.159399,,,
+V1618,TW 6000,TRAM,BKK_C342552610,47.49148,19.14613,37A,Sörgyár,Blaha Lujza tér M
+MHU728,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C364671441,47.571125,19.134209,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+V1615,TW 6000,TRAM,BKK_C36510680J,47.465557,19.12213,42,"Kispest, Tulipán utca",Határ út M
+T0613,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.49113,19.115433,,,
+T0612,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.491657,19.118292,,,
+MHU727,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.571262,19.135063,,,
+V1616,TW 6000,TRAM,BKK_C175521366,47.4215,19.118906,52,"P.erzsébet, Pacsirtatelep",Határ út M
+NAY368,MAN Lions City A21 (ArrivaBus),BUS,,47.443474,19.082474,,,
+V1614,TW 6000,TRAM,BKK_C24797667,47.47077,19.091282,51A,Ferencváros vasútállomás,Mester utca/Ferenc körút
+RCT308,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C37690532,47.45048,19.160707,50,Lajosmizsei sorompó,Határ út M
+RCT315,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_RCT315-PRaI7gniTWCYXQlCNw7aTg,47.42826,19.158861,,,
+NAY363,MAN Lions City A21 (ArrivaBus),BUS,BKK_NAY363-Lw1kNgEIQ-quNr68qpMq6g,47.44236,19.082424,,,
+NAY364,MAN Lions City A21 (ArrivaBus),BUS,BKK_C350342948,47.38916,19.100122,152,Hollandi út,Szent Imre tér
+T0608,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.49128,19.117786,,,
+V1612,TW 6000,TRAM,BKK_C342552616,47.491344,19.093468,37A,Sörgyár,Blaha Lujza tér M
+MHU726,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.57164,19.134066,,,
+T0610,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C290241343,47.518696,19.087875,74,Károly körút (Astoria M),Csáktornya park
+V1610,TW 6000,TRAM,BKK_C175521372,47.459282,19.119658,52,"P.erzsébet, Pacsirtatelep",Határ út M
+MHU725,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.571053,19.134127,,,
+T0607,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.491325,19.116703,,,
+NAY316,MAN Lions City A21 (ArrivaBus),BUS,BKK_C32680558,47.416943,19.13125,35,"Csepel, Csillagtelep",Szentlőrinci úti ltp.
+T8102,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C37449676,47.513313,19.078218,75,Jászai Mari tér,Puskás Ferenc Stadion M
+MHU742,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365862217,47.49963,19.08275,20E,Keleti pályaudvar M,"Káp.megyer, Szilas-patak"
+NTM421,Modulo M108d szóló autóbusz (rend.tart.),BUS,BKK_C354313432,47.524323,19.075666,178,Gyöngyösi utca M,Naphegy tér
+NAY381,MAN Lions City A21 (ArrivaBus),BUS,BKK_NAY381-LssUEVqdQcGOa5s4EVyEow,47.477036,19.06149,,,
+T8100,4. gen. SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C35004406,47.51927,19.126434,77,Öv utca / Egressy út,Puskás Ferenc Stadion M
+NAY378,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369712737,47.475113,19.046926,154,Infopark - BudaPart,Gazdagréti tér
+RCT320,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_RCT320-WloY_oniTs25eUUizscokQ,47.427208,19.157232,,,
+NAY311,MAN Lions City A21 (ArrivaBus),BUS,,47.442463,19.082493,,,
+MHU738,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3552827070,47.60402,19.06229,34,"B.megyer, Újmegyeri tér",Göncz Árpád városkp. M
+NAY312,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36960832,47.434086,19.182981,182,Alacskai úti lakótelep,Kőbánya-Kispest M
+NAY376,MAN Lions City A21 (ArrivaBus),BUS,BKK_NAY376-4J8rAVDoQL-jAFRbwyHc5w,47.59653,19.054745,,,
+MHU741,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C355542521,47.503414,19.025702,5,"Rákospalota, Kossuth utca",Pasaréti tér
+NAY309,MAN Lions City A21 (ArrivaBus),BUS,,47.430763,19.071102,,,
+RCT318,VanHool  NewAG300 csuklós autóbusz,BUS,,47.42781,19.156569,,,
+NAY377,MAN Lions City A21 (ArrivaBus),BUS,BKK_C37021849,47.487286,18.989737,53,Mindszenty J. bíboros tér,Móricz Zs. körtér M
+MHU740,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514722002,47.541496,19.152142,196A,"Újpalota, Szentmihályi út",Újpest-városkapu M
+NAY310,MAN Lions City A21 (ArrivaBus),BUS,BKK_NAY310-Gucr922XSDOUUJSrladMPQ,47.44324,19.082655,,,
+RCT319,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_RCT319-ax8z91DiQr2FGJLYo-VdFw,47.43479,19.1746,,,
+RWA600,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.427006,19.160704,,,
+RCT316,VanHool  NewAG300 csuklós autóbusz,BUS,,47.427517,19.159334,,,
+RYH836,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C36667893,47.550293,19.042019,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+RCT317,VanHool  NewAG300 csuklós autóbusz,BUS,,47.427452,19.156967,,,
+V1619,TW 6000,TRAM,BKK_C36510293,47.43586,19.198599,50,"Pestszentlőrinc, Béke tér",Villanytelep
+NNE062,MERCEDES Conecto csuklós,BUS,,47.567993,19.029547,,,
+NNE063,MERCEDES Conecto csuklós,BUS,,47.56711,19.030977,,,
+NNE060,MERCEDES Conecto csuklós,BUS,,47.567753,19.029482,,,
+T0309,Ikarus 435-ös típusú trolibusz,TROLLEYBUS,,47.49171,19.116102,,,
+MHU707,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365862224,47.53793,19.08965,20E,Keleti pályaudvar M,"Káp.megyer, Szilas-patak"
+NNE058,MERCEDES Conecto csuklós,BUS,,47.567783,19.029457,,,
+NGC164,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C356993254,47.545418,19.033735,260,Harsánylejtő,Óbudai rendelőintézet
+MHU706,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.570686,19.134687,,,
+NNE056,MERCEDES Conecto csuklós,BUS,,47.567734,19.031391,,,
+MHU709,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C364671305,47.388187,18.97124,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+NGC161,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_NGC161-RRPHMpGaSQ-Itgf4o6_dug,47.5342,19.067106,,,
+NNE057,MERCEDES Conecto csuklós,BUS,BKK_C368461759,47.432602,19.12739,23,Boráros tér H,"P.erzsébet, Ady Endre tér"
+V2202,CAF 5 modulos szerelvény,TRAM,BKK_C349541338,47.473698,19.115417,3,Mexikói út M,Gubacsi út / Határ út
+T0305,Ikarus 435-ös típusú trolibusz,TROLLEYBUS,,47.491234,19.117237,80,Keleti pályaudvar M,Örs vezér tere M H
+NNE054,MERCEDES Conecto csuklós,BUS,BKK_C355542542,47.563736,19.125898,5,"Rákospalota, Kossuth utca",Pasaréti tér
+T0304,Ikarus 435-ös típusú trolibusz,TROLLEYBUS,,47.491394,19.11511,,,
+T0306,Ikarus 435-ös típusú trolibusz,TROLLEYBUS,,47.49183,19.115274,,,
+BPO202,Ikarus 405-ös típusú autóbusz,BUS,,47.47471,19.027813,,,
+NNE073,MERCEDES Conecto csuklós,BUS,BKK_NNE073-I9ZG3fbPQDWtEyDfJs7Yfw,47.56779,19.03122,,,
+NAY361,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36960837,47.399117,19.20561,184,"Pestszentimre, Benjámin u.",Kőbánya-Kispest M
+T0605,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.49149,19.117767,,,
+LMG024,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.567574,19.030087,,,
+MHU720,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.5712,19.1359,,,
+NAY358,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36960829,47.461643,19.151577,184,"Pestszentimre, Benjámin u.",Kőbánya-Kispest M
+MHU723,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C355542498,47.502415,19.026674,5,"Rákospalota, Kossuth utca",Pasaréti tér
+NNE071,MERCEDES Conecto csuklós,BUS,,47.567017,19.031422,,,
+NNE072,MERCEDES Conecto csuklós,BUS,BKK_C373222016,47.567142,19.030941,M3,Lehel tér M,Nagyvárad tér M
+NAY356,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36960838,47.428825,19.200706,182,Alacskai úti lakótelep,Kőbánya-Kispest M
+NNE069,MERCEDES Conecto csuklós,BUS,BKK_NNE069-7_x5s9MaQ0i253f9S4NThg,47.56721,19.030714,,,
+MHU717,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C365512363,47.47407,18.990608,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+NNE070,MERCEDES Conecto csuklós,BUS,BKK_C368461774,47.479733,19.067804,23,Boráros tér H,"P.erzsébet, Ady Endre tér"
+T0601,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C290241349,47.498615,19.069462,74,Károly körút (Astoria M),Csáktornya park
+MHU716,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.570625,19.13441,,,
+NNE067,MERCEDES Conecto csuklós,BUS,BKK_C36667859,47.500305,19.054976,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+MHU719,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.57133,19.134478,,,
+PXZ880,MAN Lions City GL NG313 csuklós busz,BUS,,47.427944,19.15969,,,
+NNE068,MERCEDES Conecto csuklós,BUS,BKK_C355542513,47.50874,19.095348,5,"Rákospalota, Kossuth utca",Pasaréti tér
+T0603,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,,47.491512,19.118011,,,
+MHU718,MB Citaro C2-S1-G csuklós autóbusz,BUS,,47.571114,19.13401,,,
+PTZ500,Ikarus 412-es típusú autóbusz,BUS,,47.427143,19.159025,,,
+NNE065,MERCEDES Conecto csuklós,BUS,BKK_NNE065-3oDH2ZIKSDSE0UwaR8AYtg,47.5671,19.031189,,,
+T0350,MAN NGE152 típusú csuklós trolibusz,TROLLEYBUS,BKK_C374971418,47.506645,19.148682,80,Keleti pályaudvar M,Örs vezér tere M H
+NNE066,MERCEDES Conecto csuklós,BUS,BKK_C373222149,47.510246,19.055613,M3,Lehel tér M,Nagyvárad tér M
+MHU715,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C355542501,47.572014,19.134901,5,"Rákospalota, Kossuth utca",Pasaréti tér
+MHU714,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C364671519,47.400143,19.005371,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+NNE064,MERCEDES Conecto csuklós,BUS,BKK_NNE064-CpboQIgnSBmJpl_FVmOosg,47.499714,19.083826,,,
+MFW510,Volvo szóló autóbusz,BUS,BKK_C383551073,47.491676,19.011295,102,Szendrő utca,Széll Kálmán tér M
+MPW602,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.42788,19.158686,,,
+FLR749,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C352262096,47.49141,19.24289,276E,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+961,MXA,SUBURBAN_RAILWAY,BKK_H33014_250,47.421745,19.066353,H7,Csepel,Boráros tér
+V2227,CAF 5 modulos szerelvény,TRAM,BKK_C349312600,47.493378,19.04432,19,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+FLR746,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C356212058,47.481846,19.17765,202E,Kucorgó tér,Kőbánya-Kispest M
+FLR747,Volvo 7700A típusú csuklós autóbusz,BUS,,47.500496,19.135214,,,
+FLR748,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C352262071,47.500385,19.13559,276E,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+BPO180,Ikarus 260-as típusú autóbusz,BUS,,47.4994,19.236444,,,
+NNE051,MERCEDES Conecto csuklós,BUS,BKK_C355542511,47.565147,19.129314,5,"Rákospalota, Kossuth utca",Pasaréti tér
+NGC157,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C36824131,47.59922,19.042044,243,Békásmegyer H,Pince köz
+NNE052,MERCEDES Conecto csuklós,BUS,BKK_C355542488,47.509743,19.096527,5,"Rákospalota, Kossuth utca",Pasaréti tér
+MHU802,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C27962850,47.56045,19.09046,220,"Újpest, Erdősor út",Újpest-központ M
+MPW611,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.426853,19.159182,,,
+MHU702,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3552828240,47.572495,19.048403,106,Római úti lakótelep,Göncz Árpád városkp. M
+T0303,Ikarus 435-ös típusú trolibusz,TROLLEYBUS,BKK_T0303-F00DOs_wRKKa0Xs2Zk7F-w,47.49113,19.116192,,,
+V2235,CAF 5 modulos szerelvény,TRAM,BKK_C3483816726,47.46783,19.04422,17,Savoya Park,Bécsi út / Vörösvári út
+MHU701,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3514721996,47.542248,19.14079,196,"Újpalota, Szentmihályi út","Újpest, Fóti út"
+NGC153,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.567707,19.032595,,,
+V1592,TW 6000,TRAM,BKK_C342552606,47.490993,19.096571,37A,Sörgyár,Blaha Lujza tér M
+NGC162,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C356993243,47.545494,19.033613,260,Harsánylejtő,Óbudai rendelőintézet
+V2233,CAF 5 modulos szerelvény,TRAM,BKK_C3483816754,47.520126,19.036678,17,Savoya Park,Bécsi út / Vörösvári út
+T0300,Ikarus 435-ös típusú trolibusz,TROLLEYBUS,,47.491955,19.116226,87,Mechanikai Művek,Kelenföld vasútállomás M
+BPO187,Ikarus 260-as típusú autóbusz,BUS,,47.427948,19.156063,,,
+NGC159,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.567802,19.029434,,,
+MHU703,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C3552826594,47.546917,19.042797,34,"B.megyer, Újmegyeri tér",Göncz Árpád városkp. M
+NGC165,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C358321850,47.511044,19.056715,91,Széll Kálmán tér M,Nyugati pályaudvar M
+NNE053,MERCEDES Conecto csuklós,BUS,,47.52418,19.06304,,,
+MPW604,VanHool A330 CNG típusú szóló autóbusz,BUS,BKK_C373774020,47.436874,19.097559,166,Ferihegy vasútállomás,Gubacsi út / Határ út
+MPW603,VanHool A330 CNG típusú szóló autóbusz,BUS,BKK_MPW603-qO3oqo4IQBCYxhSWu1Klyg,47.426174,19.158834,,,
+FLR731,Volvo 7700A típusú csuklós autóbusz,BUS,,47.496037,19.231644,,,
+FLR732,Volvo 7700A típusú csuklós autóbusz,BUS,,47.50416,19.136793,,,
+1147,MXA,SUBURBAN_RAILWAY,BKK_H4141_3,47.646763,19.035028,H5,Szentendre,Batthyány tér
+RYH813,Ikarus E91 típusú midi autóbusz,BUS,,47.47356,19.028503,,,
+FLR734,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C373222145,47.517994,19.0603,M3,Lehel tér M,Nagyvárad tér M
+NLE861,MODULO Medio C68E midi autóbusz,BUS,BKK_NLE861-1HpWCM8FQT-uH-vfW_FaKw,47.474884,19.028095,,,
+SGY824,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36692331,47.42473,19.040289,58,Móricz Zs. körtér M,Jégmadár utca
+FLR730,Volvo 7700A típusú csuklós autóbusz,BUS,,47.50021,19.234993,,,
+SGY822,MAN Lions City A21 (ArrivaBus),BUS,BKK_SGY822-JAqodtSET028gFodjQrH6g,47.45823,19.028025,,,
+T0257,GVM (Ikarus 280)típusú trolibusz,TROLLEYBUS,,47.49196,19.116781,,,
+SIF014,VanHool  NewAG300 csuklós autóbusz,BUS,,47.42701,19.15975,,,
+FLR735,Volvo 7700A típusú csuklós autóbusz,BUS,,47.502,19.236397,,,
+SMC223,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C36667869,47.483955,19.12762,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+FLR726,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C356212062,47.472134,19.294874,202E,Kucorgó tér,Kőbánya-Kispest M
+V1418,Ganz csuklós,TRAM,,47.47,19.026129,47,Városház tér,Deák Ferenc tér M
+FLR743,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C357632452,47.500225,19.135614,161,Rákoscsaba,Örs vezér tere M H
+LMG077,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.567307,19.03159,,,
+LMG090,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.56713,19.0313,,,
+FLR744,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_FLR744-TcS3C3PMRyGuDJ8IObnNqg,47.499256,19.237051,,,
+V1419,Ganz csuklós,TRAM,BKK_C36350553,47.46798,19.022415,49,Kelenföld vasútállomás M,Deák Ferenc tér M
+FLR738,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C357632459,47.479477,19.256672,161,Rákoscsaba,Örs vezér tere M H
+LMG070,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,BKK_C36965603,47.552696,19.023144,137,Erdőalja út-Máramaros út,Szentlélek tér H
+T0260,GVM (Ikarus 280)típusú trolibusz,TROLLEYBUS,,47.4917,19.115723,,,
+LMG049,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.56766,19.028776,,,
+LMG075,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,BKK_C36454424,47.539368,19.04702,29,Hűvösvölgy,Szentlélek tér H
+FLR741,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C356212064,47.48709,19.179512,202E,Kucorgó tér,Kőbánya-Kispest M
+SIF011,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.568146,19.030998,,,
+LMG032,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.56721,19.032522,,,
+LMG017,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,BKK_C364887898,47.52539,19.009937,11,Nagybányai út,Batthyány tér M H
+MHK920,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C37096438,47.535458,19.075073,32,Göncz Árpád városkp. M,Örs vezér tere M H
+V1354,KCSV7 Korszerűsített Ganz,TRAM,BKK_C377832610,47.49258,19.050356,2,Jászai Mari tér,Közvágóhíd H
+V4008,Tátra T5C5K,TRAM,BKK_C36352483,47.443657,19.008894,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+BPO472,Ikarus 280-as típusú autóbusz,BUS,,47.491707,19.118275,,,
+V2036,Siemens Combino,TRAM,BKK_C34106120979,47.51336,19.047365,4,Újbuda-központ M,Széll Kálmán tér M
+BPO218,Ikarus 412-es típusú autóbusz,BUS,BKK_C36119164,47.483784,19.127481,217,Szarvas csárda tér,Kőbánya alsó vasútáll.
+V2031,Siemens Combino,TRAM,BKK_C34106121004,47.482594,19.068598,6,Móricz Zs. körtér M,Széll Kálmán tér M
+FLR707,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C352262643,47.50912,19.20816,276E,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+SGY811,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369712735,47.460747,19.019077,154,Infopark - BudaPart,Gazdagréti tér
+MHK924,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C35649696,47.48385,19.192743,168E,"Rákoshegy, Ferihegyi út",Örs vezér tere M H
+SGY809,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36692328,47.477097,19.049536,58,Móricz Zs. körtér M,Jégmadár utca
+FLR713,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C37096439,47.52185,19.104097,32,Göncz Árpád városkp. M,Örs vezér tere M H
+V2038,Siemens Combino,TRAM,,47.492325,19.103569,,,
+V1357,Ganz csuklós,TRAM,BKK_C218463692J,47.47888,19.050047,47,Városház tér,Deák Ferenc tér M
+MRZ384,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C2907881,47.507492,19.023949,22,"Budakeszi, Tesco áruház",Széll Kálmán tér M
+SGY807,MAN Lions City A21 (ArrivaBus),BUS,BKK_SGY807-vEV_8DkUSgW6NSxBPGpaGw,47.45801,19.02756,,,
+BPO469,Ikarus 280-as típusú autóbusz,BUS,,47.42719,19.158813,,,
+MRZ392,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C1794648011,47.43491,18.924414,172,Kelenföld vasútállomás M,Törökbálint vasútállomás
+FLR721,Volvo 7700A típusú csuklós autóbusz,BUS,,47.500477,19.23689,,,
+SGY814,MAN Lions City A21 (ArrivaBus),BUS,,47.45802,19.028845,,,
+NLE849,MODULO Medio C68E midi autóbusz,BUS,,47.474453,19.028212,,,
+MRZ393,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.50987,19.009863,,,
+SGY815,MAN Lions City A21 (ArrivaBus),BUS,BKK_C24066182,47.384037,19.016201,138,Budatétény vá. (Campona),"Csepel, Szent Imre tér"
+FLR716,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36434904,47.504765,19.136755,45,"Cinkota, Lassú utca",Örs vezér tere M H
+MRZ388,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_MRZ388-z8Is2d9hQiCxJhsbCdxiJg,47.432255,19.04292,,,
+SGY812,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369421667,47.434437,19.036743,101E,Budatétény vá. (Campona),Kelenföld vasútállomás M
+V1360,Ganz csuklós,TRAM,BKK_C21846940,47.44387,19.036886,47,Városház tér,Deák Ferenc tér M
+MRZ387,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C2764119583,47.464893,19.018011,88A,"Törökbálint, Márta utca",Kelenföld vasútállomás M
+FLR724,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C365621021,47.4718,19.280396,97E,Rákoskert sugárút,Örs vezér tere M H
+SGY820,MAN Lions City A21 (ArrivaBus),BUS,BKK_C24066180,47.43098,19.070915,138,Budatétény vá. (Campona),"Csepel, Szent Imre tér"
+NLE855,MODULO Medio C68E midi autóbusz,BUS,,47.47501,19.028538,,,
+MKL981,VanHool NewA330 szóló autóbusz,BUS,,47.42809,19.159216,,,
+NLE856,MODULO Medio C68E midi autóbusz,BUS,,47.473995,19.027092,,,
+SGY821,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36692322,47.436375,19.034805,58,Móricz Zs. körtér M,Jégmadár utca
+FKU946,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C360871068,47.492466,19.11931,30,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+V1329,KCSV7 Korszerűsített Ganz,TRAM,BKK_C377832728,47.482754,19.062983,2,Jászai Mari tér,Közvágóhíd H
+SKR817,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C35422173,47.510983,19.131927,130,"Újpalota, Sárfű utca",Puskás Ferenc Stadion M
+V1332,KCSV7 Korszerűsített Ganz,TRAM,BKK_C377832727,47.508495,19.04709,2,Jászai Mari tér,Közvágóhíd H
+MRZ360,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,,47.433235,19.042128,,,
+FKU948,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C3781025910,47.50173,19.135582,85,Kőbánya-Kispest M,Örs vezér tere M H
+V2015,Siemens Combino,TRAM,BKK_C3410613432J,47.473866,19.048443,4,Újbuda-központ M,Széll Kálmán tér M
+V2011,Siemens Combino,TRAM,BKK_C34106121025,47.513947,19.04579,4,Újbuda-központ M,Széll Kálmán tér M
+SKR823,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.427536,19.160107,,,
+SKR821,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.49226,19.11852,,,
+SKR822,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.491432,19.11501,,,
+FKU949,Volvo 7700A típusú csuklós autóbusz,BUS,,47.491623,19.117987,,,
+FKU950,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C352262638,47.487293,19.259007,276E,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+SKR820,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.492264,19.117027,,,
+V2017,Siemens Combino,TRAM,BKK_C34106120967,47.507423,19.023443,4,Újbuda-központ M,Széll Kálmán tér M
+V2018,Siemens Combino,TRAM,BKK_C34106118777,47.47733,19.048708,6,Móricz Zs. körtér M,Széll Kálmán tér M
+SKR816,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C358321842,47.50752,19.023735,91,Széll Kálmán tér M,Nyugati pályaudvar M
+SKR818,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.491394,19.116594,,,
+V2023,Siemens Combino,TRAM,BKK_C34106121019,47.49505,19.070839,4,Újbuda-központ M,Széll Kálmán tér M
+MRZ370,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_MRZ370-4KtLfGz_RTSWjzkLnOv6yg,47.431915,19.042809,,,
+SKR826,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.42703,19.158133,,,
+V2024,Siemens Combino,TRAM,,47.491787,19.103464,,,
+SKR827,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C37380757,47.46374,19.100807,181,Ecseri út M - József A. ltp.,Ecseri út M - Aszódi utca
+V2025,Siemens Combino,TRAM,,47.49248,19.103678,,,
+SKR824,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.426876,19.158335,,,
+MRZ372,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.405552,19.022907,,,
+FLR701,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_FLR701-AuLSYOLpQ8uLx-H3EMe_-g,47.500465,19.135275,,,
+V2026,Siemens Combino,TRAM,BKK_C34106120991,47.496456,19.070778,4,Újbuda-központ M,Széll Kálmán tér M
+SKR825,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C373773572,47.423634,19.234484,266,"Ganztelep, Mednyánszky u.",Pestszentimre vasútáll.
+MRZ366,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_MRZ366-Kb2hZlDXRaqYwmYFLfftEg,47.46843,19.048866,,,
+MRZ365,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C34549156,47.402386,18.93757,13,"Diósd, Búzavirág u.",Budatétény vá. (Campona)
+V2020,Siemens Combino,TRAM,BKK_C34106121013,47.476948,19.0593,4,Újbuda-központ M,Széll Kálmán tér M
+MRZ368,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.46386,19.022211,,,
+V1339,KCSV7 Korszerűsített Ganz,TRAM,BKK_C377832611,47.512836,19.04787,2,Jászai Mari tér,Közvágóhíd H
+V2022,Siemens Combino,TRAM,BKK_C34106118780,47.484398,19.069494,6,Móricz Zs. körtér M,Széll Kálmán tér M
+V2027,Siemens Combino,TRAM,BKK_C34106120986,47.514103,19.035473,6,Móricz Zs. körtér M,Széll Kálmán tér M
+T0224,GVM (Ikarus 280)típusú trolibusz,TROLLEYBUS,,47.491074,19.114967,,,
+V2028,Siemens Combino,TRAM,BKK_C34106118792,47.51089,19.031788,6,Móricz Zs. körtér M,Széll Kálmán tér M
+V1344,KCSV7 Korszerűsített Ganz,TRAM,BKK_C377832609,47.46798,19.075481,2,Jászai Mari tér,Közvágóhíd H
+FLR704,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C356212050,47.462887,19.149536,202E,Kucorgó tér,Kőbánya-Kispest M
+SKR828,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C37380753,47.465565,19.103916,181,Ecseri út M - József A. ltp.,Ecseri út M - Aszódi utca
+NBW014,MERCEDES Conecto szóló (BKV),BUS,BKK_C352481466,47.479828,19.256695,198,"R.csaba-Újtelep, Tóalmás u.",Dél-pesti autóbuszgarázs
+V4236,Tátra T5C5K,TRAM,,47.551525,19.093117,,,
+NAY265,Ikarus 412-es típusú autóbusz,BUS,BKK_C3691011971,47.463013,19.149437,98,Rákoscsaba vasútállomás,Kőbánya-Kispest M
+NBW015,MERCEDES Conecto szóló (BKV),BUS,BKK_C369133196,47.53378,19.18412,46,Helikopter lakópark,"Újpalota, Nyírpalota út"
+NBW010,MERCEDES Conecto szóló (BKV),BUS,BKK_C352481476,47.467598,19.243687,198,"R.csaba-Újtelep, Tóalmás u.",Dél-pesti autóbuszgarázs
+MOS287,"Volvo 7900 csuklós (Volán, helyk., 3 a )",BUS,BKK_C338141932,47.418484,19.06299,38A,"Lakihegy, Cseresznyés utca","Csepel, Szent Imre tér"
+V4233,Tátra T5C5K,TRAM,BKK_C35245303,47.593426,19.120495,14,"Káp.megyer, Megyeri út",Lehel tér M
+NAY266,Ikarus 412-es típusú autóbusz,BUS,BKK_C3691011959,47.4679,19.244001,98,Rákoscsaba vasútállomás,Kőbánya-Kispest M
+V1313,Ganz csuklós,TRAM,BKK_C21846941,47.43539,19.03634,47,Városház tér,Deák Ferenc tér M
+V2001,Siemens Combino,TRAM,BKK_C34106120997,47.473896,19.053381,4,Újbuda-központ M,Széll Kálmán tér M
+BPO439,Ikarus 280-as típusú autóbusz,BUS,,47.426918,19.159042,,,
+NAY302,MAN Lions City A21 (ArrivaBus),BUS,,47.442463,19.082571,,,
+V2003,Siemens Combino,TRAM,BKK_C34106118771,47.50567,19.062668,6,Móricz Zs. körtér M,Széll Kálmán tér M
+V2004,Siemens Combino,TRAM,,47.49235,19.103947,,,
+NAY304,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36960842,47.450504,19.178347,184,"Pestszentimre, Benjámin u.",Kőbánya-Kispest M
+NAY270,Ikarus 412-es típusú autóbusz,BUS,,47.428288,19.158136,,,
+NAY307,MAN Lions City A21 (ArrivaBus),BUS,BKK_C32680576,47.43482,19.082636,35,"Csepel, Csillagtelep",Szentlőrinci úti ltp.
+V2006,Siemens Combino,TRAM,,47.491783,19.104101,,,
+NAY306,MAN Lions City A21 (ArrivaBus),BUS,,47.442455,19.082544,,,
+V1325,KCSV7 Korszerűsített Ganz,TRAM,BKK_C377832729,47.46746,19.075865,2,Jászai Mari tér,Közvágóhíd H
+V2007,Siemens Combino,TRAM,BKK_C34106118786,47.50564,19.06271,6,Móricz Zs. körtér M,Széll Kálmán tér M
+MOS267,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,,47.503056,19.026167,,,
+V1579,TW 6000,TRAM,BKK_C291074811,47.48261,19.127087,28A,Új köztemető (Kozma u.),Blaha Lujza tér M
+V1581,TW 6000,TRAM,BKK_C291075989,47.49579,19.072784,28A,Új köztemető (Kozma u.),Blaha Lujza tér M
+MOS268,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,BKK_C37669665,47.454674,19.113157,294E,"Gyál, Vecsési út",Határ út M
+V1580,TW 6000,TRAM,BKK_C3482169,47.477608,19.08565,24,Keleti pályaudvar M,Közvágóhíd H
+MOS276,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,BKK_C338141929,47.338387,19.035841,38,Szigetszentmiklós,"Csepel, Szent Imre tér"
+V1583,TW 6000,TRAM,BKK_C291074805,47.475582,19.178173,28A,Új köztemető (Kozma u.),Blaha Lujza tér M
+V1585,TW 6000,TRAM,BKK_C34821142,47.49907,19.082676,24,Keleti pályaudvar M,Közvágóhíd H
+NBW003,MERCEDES Conecto szóló (BKV),BUS,BKK_NBW003-mNcBc-x0QKagAnbiQR4ZOw,47.498676,19.23642,,,
+NBW002,MERCEDES Conecto szóló (BKV),BUS,BKK_C34397283,47.52768,19.122438,277,Bosnyák tér,Örs vezér tere M H
+NBW005,MERCEDES Conecto szóló (BKV),BUS,,47.4987,19.236547,,,
+BPO423,Ikarus 280-as típusú autóbusz,BUS,,47.428776,19.156603,,,
+NBW007,MERCEDES Conecto szóló (BKV),BUS,BKK_C30114681,47.557377,19.125608,231,"R.palota, Széchenyi tér",Örs vezér tere M H
+MOS281,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,BKK_C35933328,47.388683,19.20637,55,"Gyál, Vecsési út",Boráros tér H
+NBW006,MERCEDES Conecto szóló (BKV),BUS,BKK_C273761147,47.473488,19.230484,67,"Rákoskeresztúr, Aranylúd u.",Örs vezér tere M H
+V1301,Ganz csuklós,TRAM,,47.470097,19.026606,,,
+NBW009,MERCEDES Conecto szóló (BKV),BUS,,47.49866,19.23629,,,
+NBW008,MERCEDES Conecto szóló (BKV),BUS,BKK_C352481468,47.499233,19.286718,198,"R.csaba-Újtelep, Tóalmás u.",Dél-pesti autóbuszgarázs
+MUT887,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C37690535,47.458145,19.143148,50,Lajosmizsei sorompó,Határ út M
+MUT889,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_MUT889-IAaEJRcST32SkMqCi7aDbg,47.52968,19.071587,,,
+MUT894,VanHool  NewAG300 csuklós autóbusz,BUS,,47.427284,19.1589,,,
+MUT891,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C365812042,47.404587,19.185322,54,"Péterimajor, Víztorony tér",Boráros tér H
+V1561,TW 6000,TRAM,BKK_C34821143,47.479534,19.090239,24,Keleti pályaudvar M,Közvágóhíd H
+MUT893,VanHool  NewAG300 csuklós autóbusz,BUS,,47.427414,19.159727,,,
+V4169,Tátra T5C5K,TRAM,BKK_C35245899,47.56605,19.111721,14,"Káp.megyer, Megyeri út",Lehel tér M
+913,MXA,SUBURBAN_RAILWAY,BKK_H15886_271,47.51811,19.214203,H9,Csömör,Örs vezér tere
+MUT898,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_MUT898-57UThiEwSSO-o2h0Ux48bw,47.428127,19.159382,,,
+V1568,TW 6000,TRAM,BKK_C291075195,47.482574,19.128136,28A,Új köztemető (Kozma u.),Blaha Lujza tér M
+MUT897,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C37690530,47.46513,19.126633,50,Lajosmizsei sorompó,Határ út M
+MUT900,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C368461807,47.439342,19.104359,23,Boráros tér H,"P.erzsébet, Ady Endre tér"
+MUT899,VanHool  NewAG300 csuklós autóbusz,BUS,,47.427734,19.156689,,,
+MOS257,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,,47.589603,19.148544,,,
+MOS264,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,BKK_C37669147,47.464203,19.12728,294E,"Gyál, Vecsési út",Határ út M
+MUU906,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C35649945,47.489464,19.164207,168E,"Rákoshegy, Ferihegyi út",Örs vezér tere M H
+MOS263,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,BKK_C37663764,47.500813,19.137,169E,"Pécel, Kun József utca",Örs vezér tere M H
+MUU905,VanHool  NewAG300 csuklós autóbusz,BUS,,47.427975,19.158295,,,
+V1577,TW 6000,TRAM,,47.46583,19.122427,,,
+V4206,Tátra T5C5K,TRAM,BKK_C36352487,47.444504,19.005621,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+MUU901,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_MUU901-hs7FkjWpSm-GtkkCbYJHdw,47.42824,19.15792,,,
+MOS262,"Volvo 7900 csuklós (Volán, helyi, 4 ajt)",BUS,,47.485188,19.223618,,,
+MUU904,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C367251822,47.460213,19.147919,136E,Havanna utcai lakótelep,Kőbánya-Kispest M
+V1573,TW 6000,TRAM,,47.490154,19.148926,,,
+MUU903,VanHool  NewAG300 csuklós autóbusz,BUS,,47.433086,19.174267,,,
+V4143,Tátra T5C5K,TRAM,BKK_C35245145,47.568504,19.112587,14,"Káp.megyer, Megyeri út",Lehel tér M
+V4147,Tátra T5C5K,TRAM,BKK_C36352493,47.471954,19.04544,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+V4146,Tátra T5C5K,TRAM,BKK_C3474325951,47.506947,19.024193,56A,Móricz Zs. körtér M,Hűvösvölgy
+V1548,TW 6000,TRAM,BKK_C24797673,47.4817,19.06948,51,Nagysándor József utca,Mester utca/Ferenc körút
+MUT884,VanHool  NewAG300 csuklós autóbusz,BUS,BKK_C365812018,47.46572,19.07809,54,"Péterimajor, Víztorony tér",Boráros tér H
+V4160,Tátra T5C5K,TRAM,BKK_C36352458,47.51391,19.0397,41,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+MUT886,VanHool  NewAG300 csuklós autóbusz,BUS,,47.42756,19.156841,,,
+PDN610,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032270,47.41663,19.001472,114,"Baross G.-telep, Ispiláng u.",Móricz Zs. körtér M
+PDN617,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032280,47.426033,19.039534,213,Donát-hegy,Móricz Zs. körtér M
+PDN615,MAN Lions City A21 (ArrivaBus),BUS,BKK_C306213790,47.422924,19.02971,250,Savoya Park,Kelenföld vasútállomás M
+PDN611,MAN Lions City A21 (ArrivaBus),BUS,,47.458908,19.028425,,,
+PDN612,MAN Lions City A21 (ArrivaBus),BUS,BKK_PDN612-Ji7fTlJXSzCbqfAqlCEClg,47.458164,19.027979,,,
+V4137,Tátra T5C5K,TRAM,BKK_C3489330851,47.463066,19.022968,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+PDN621,MAN Lions City A21 (ArrivaBus),BUS,BKK_C37021861,47.476017,19.038416,53,Mindszenty J. bíboros tér,Móricz Zs. körtér M
+PDN626,MAN Lions City A21 (ArrivaBus),BUS,BKK_C37021834,47.475697,19.031292,53,Mindszenty J. bíboros tér,Móricz Zs. körtér M
+PDN624,MAN Lions City A21 (ArrivaBus),BUS,,47.458916,19.028143,,,
+PDN622,MAN Lions City A21 (ArrivaBus),BUS,BKK_C369712743,47.46197,19.01163,154,Infopark - BudaPart,Gazdagréti tér
+PDN623,MAN Lions City A21 (ArrivaBus),BUS,BKK_C34475640,47.43656,19.039688,141,Savoya Park,Kelenföld vasútállomás M
+PDB387,MERCEDES Conecto szóló (BKV),BUS,,47.50107,19.23699,,,
+951,MXA,SUBURBAN_RAILWAY,BKK_H20485_230,47.36617,19.092453,H6,Ráckeve,Közvágóhíd
+LYH115,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.56786,19.031998,,,
+LYH116,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C21515263,47.53391,19.026089,165,Remetehegyi út,Kolosy tér
+LYH111,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.568573,19.028427,,,
+PDB385,MERCEDES Conecto szóló (BKV),BUS,BKK_C369644050,47.50446,19.136574,31,"Árpádföld, Bekecs utca",Örs vezér tere M H
+PDB383,MERCEDES Conecto szóló (BKV),BUS,,47.510044,19.185635,,,
+PDB378,MERCEDES Conecto szóló (BKV),BUS,BKK_C352481462,47.45102,19.194195,198,"R.csaba-Újtelep, Tóalmás u.",Dél-pesti autóbuszgarázs
+PDB379,MERCEDES Conecto szóló (BKV),BUS,BKK_C3691011944,47.463303,19.147528,98,Rákoscsaba vasútállomás,Kőbánya-Kispest M
+LYH128,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C35816970,47.567932,19.031706,129,Szent Ferenc Kórház,Széll Kálmán tér M
+LYH123,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C35482400,47.550556,19.041645,109,Batthyány tér M H,"Óbuda, Bogdáni út"
+LYH124,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C35285408,47.507717,19.02436,149,Fenyves utca,Széll Kálmán tér M
+889,MX,SUBURBAN_RAILWAY,BKK_H23016_246,47.360466,19.086687,H6,Ráckeve,Közvágóhíd
+PDN606,MAN Lions City A21 (ArrivaBus),BUS,BKK_C36789848,47.4366,19.018057,150,Budatétény vá. (Campona),Móricz Zs. körtér M
+PDN604,MAN Lions City A21 (ArrivaBus),BUS,BKK_C291032260,47.43007,19.03755,213,Donát-hegy,Móricz Zs. körtér M
+PDN601,MAN Lions City A21 (ArrivaBus),BUS,,47.457813,19.028374,,,
+PDB389,MERCEDES Conecto szóló (BKV),BUS,BKK_PDB389-lvkI2wNUQEWbnxeVeJEfew,47.499084,19.237259,,,
+PDB390,MERCEDES Conecto szóló (BKV),BUS,BKK_C273761142,47.500977,19.135698,67,"Rákoskeresztúr, Aranylúd u.",Örs vezér tere M H
+PDB722,MERCEDES Conecto csuklós,BUS,,47.567707,19.029629,,,
+PDB723,MERCEDES Conecto csuklós,BUS,BKK_C373222135,47.566845,19.03175,M3,Lehel tér M,Nagyvárad tér M
+V1620,TW 6000,TRAM,BKK_C36510287,47.44636,19.17121,50,"Pestszentlőrinc, Béke tér",Villanytelep
+NCZ574,Volvo szóló autóbusz,BUS,BKK_C369912156,47.494686,18.998466,112,Bosnyák tér,Thomán István utca
+NGC150,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C37132501,47.50754,19.023499,155,Fácános tér,Széll Kálmán tér M
+PXZ876,MAN Lions City GL NG313 csuklós busz,BUS,BKK_C368461776,47.461006,19.081915,23,Boráros tér H,"P.erzsébet, Ady Endre tér"
+NGC152,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C356993248,47.594185,19.046349,160,Békásmegyer H,Óbudai rendelőintézet
+NGC147,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C358321846,47.519836,19.02879,91,Széll Kálmán tér M,Nyugati pályaudvar M
+PDB716,MERCEDES Conecto csuklós,BUS,,47.56772,19.03072,,,
+PUC204,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.568867,19.02973,,,
+PDB714,MERCEDES Conecto csuklós,BUS,BKK_C373222124,47.48455,19.073471,M3,Lehel tér M,Nagyvárad tér M
+NGC151,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C356993239,47.59857,19.045645,160,Békásmegyer H,Óbudai rendelőintézet
+PDB715,MERCEDES Conecto csuklós,BUS,,47.567802,19.030418,,,
+NCZ576,Volvo szóló autóbusz,BUS,BKK_C369912138,47.50158,19.084753,112,Bosnyák tér,Thomán István utca
+PDZ836,MERCEDES O530 Citaro G csuklós autóbusz,BUS,,47.568104,19.028448,,,
+PDB376,MERCEDES Conecto szóló (BKV),BUS,BKK_PDB376-O6dk95YdRlms-zcVfdhNYg,47.50039,19.135208,,,
+PDZ834,MERCEDES O530 Citaro G csuklós autóbusz,BUS,BKK_C360871043,47.57907,19.090153,30,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+PDB729,MERCEDES Conecto csuklós,BUS,BKK_PDB729-w_WFr677RFOH3EPKs1begw,47.567932,19.030024,,,
+PDZ835,MERCEDES O530 Citaro G csuklós autóbusz,BUS,,47.577816,19.105701,220,"Újpest, Erdősor út",Újpest-központ M
+PDZ833,MERCEDES O530 Citaro G csuklós autóbusz,BUS,,47.568096,19.030317,,,
+PDB728,MERCEDES Conecto csuklós,BUS,,47.567226,19.031267,,,
+PDZ830,MERCEDES O530 Citaro G csuklós autóbusz,BUS,,47.568848,19.02938,,,
+PDB724,MERCEDES Conecto csuklós,BUS,BKK_C373222128,47.49262,19.060913,M3,Lehel tér M,Nagyvárad tér M
+PDB703,MERCEDES Conecto csuklós,BUS,BKK_C373222138,47.517643,19.060137,M3,Lehel tér M,Nagyvárad tér M
+PCC929,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.568558,19.028168,,,
+PDB701,MERCEDES Conecto csuklós,BUS,BKK_C373222155,47.490482,19.061766,M3,Lehel tér M,Nagyvárad tér M
+NCZ561,Volvo szóló autóbusz,BUS,BKK_NCZ561-120DzawhT5qxtb1iXkHYHg,47.473637,19.02705,,,
+PCC924,MERCEDES O530 Citaro G csuklós autóbusz,BUS,BKK_C373222147,47.5198,19.061148,M3,Lehel tér M,Nagyvárad tér M
+PCC928,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.567974,19.02873,,,
+NCZ562,Volvo szóló autóbusz,BUS,,47.4738,19.026836,,,
+955,MXA,SUBURBAN_RAILWAY,BKK_H33085_254,47.42978,19.067532,H7,Csepel,Boráros tér
+PCC921,MERCEDES O530 Citaro G csuklós autóbusz,BUS,BKK_C37096433,47.568493,19.029833,32,Göncz Árpád városkp. M,Örs vezér tere M H
+PRM531,Volvo 7000A típusú csuklós autóbusz,BUS,,47.50039,19.23621,,,
+PCC922,MERCEDES O530 Citaro G csuklós autóbusz,BUS,BKK_C37096429,47.51127,19.125957,32,Göncz Árpád városkp. M,Örs vezér tere M H
+PCC926,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.56768,19.030758,,,
+NCZ557,Volvo szóló autóbusz,BUS,BKK_C33570226,47.46232,19.012083,187,Kamaraerdő,Kelenföld vasútállomás M
+MFW525,Volvo szóló autóbusz,BUS,BKK_C352481450,47.427208,19.159832,198,"R.csaba-Újtelep, Tóalmás u.",Dél-pesti autóbuszgarázs
+NCZ558,Volvo szóló autóbusz,BUS,,47.49205,19.115074,,,
+NCZ555,Volvo szóló autóbusz,BUS,BKK_NCZ555-ZOg8QEMpQ6C-UUyFE_94Jg,47.519756,19.090698,,,
+PON993,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667889,47.51544,19.039335,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+T0364,MAN NGE152 típusú csuklós trolibusz,TROLLEYBUS,BKK_C381738882,47.509357,19.143522,82,Uzsoki Utcai Kórház,Örs vezér tere M H
+PDB711,MERCEDES Conecto csuklós,BUS,BKK_PDB711-4AdCc7qWQSesPLLeAakO_Q,47.567642,19.030903,,,
+PDB710,MERCEDES Conecto csuklós,BUS,BKK_PDB710-Rv509G6WS8myoTJ81c2EQA,47.567665,19.03085,,,
+PDB707,MERCEDES Conecto csuklós,BUS,BKK_C373222157,47.482426,19.079834,M3,Lehel tér M,Nagyvárad tér M
+PDB708,MERCEDES Conecto csuklós,BUS,,47.56782,19.02936,,,
+PTG283,MERCEDES O530 Citaro G csuklós autóbusz,BUS,BKK_PTG283-a9xvh6sgRwWl2V0Pg7LHbQ,47.567898,19.030972,,,
+PDB705,MERCEDES Conecto csuklós,BUS,BKK_C373222122,47.47811,19.091555,M3,Lehel tér M,Nagyvárad tér M
+V1605,TW 6000,TRAM,BKK_C36510623J,47.465004,19.123116,42,"Kispest, Tulipán utca",Határ út M
+NCZ564,Volvo szóló autóbusz,BUS,BKK_C385591730,47.56443,19.110365,99,Mátyás király tér,Blaha Lujza tér M
+V1603,TW 6000,TRAM,BKK_C24797163J,47.46485,19.122896,3,Mexikói út M,Gubacsi út / Határ út
+NCZ543,Volvo szóló autóbusz,BUS,,47.473835,19.026329,,,
+NCZ541,Volvo szóló autóbusz,BUS,BKK_NCZ541-hheo7NS-QuKz1YTA4fxRkA,47.47404,19.02589,,,
+NCZ539,Volvo szóló autóbusz,BUS,,47.49124,19.116959,13A,"Diósd, Sashegyi út",Budatétény vá. (Campona)
+NCZ540,Volvo szóló autóbusz,BUS,,47.473473,19.029076,,,
+957,MXA,SUBURBAN_RAILWAY,BKK_H32914_250,47.469147,19.070179,H7,Csepel,Boráros tér
+T9014,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971354,47.505188,19.136599,80,Keleti pályaudvar M,Örs vezér tere M H
+MFW530,Volvo szóló autóbusz,BUS,BKK_C35422174,47.547287,19.135202,130,"Újpalota, Sárfű utca",Puskás Ferenc Stadion M
+T9015,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971394,47.503735,19.119144,80,Keleti pályaudvar M,Örs vezér tere M H
+MFW516,Volvo szóló autóbusz,BUS,BKK_C369131156,47.4875,19.242992,46,Helikopter lakópark,"Újpalota, Nyírpalota út"
+T9012,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971384,47.506374,19.144644,80,Keleti pályaudvar M,Örs vezér tere M H
+NCA510,MERCEDES Conecto csuklós,BUS,,47.45866,19.028492,,,
+T9013,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C381738884,47.52114,19.123554,82,Uzsoki Utcai Kórház,Örs vezér tere M H
+NCA511,MERCEDES Conecto csuklós,BUS,BKK_C364698791,47.455975,19.0399,66,"Soroksár, közp. raktárak",Határ út M
+MFW515,Volvo szóló autóbusz,BUS,BKK_C369133198,47.47991,19.25482,46,Helikopter lakópark,"Újpalota, Nyírpalota út"
+T9011,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C36499607,47.51031,19.097286,72M,Zugló vasútállomás,Orczy tér
+NCA507,MERCEDES Conecto csuklós,BUS,BKK_C35199877,47.487007,19.024881,139,Széll Kálmán tér M,Gazdagréti tér
+PCG507,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.56747,19.032288,,,
+945-947,MXA-MXA,SUBURBAN_RAILWAY,BKK_H250112_393,47.360332,19.086521,H6,Ráckeve,Közvágóhíd
+NCZ545,Volvo szóló autóbusz,BUS,,47.473843,19.0266,,,
+T8019,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C358882522,47.499805,19.083534,76,Jászai Mari tér,Keleti pályaudvar M
+T8017,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C35288797,47.516773,19.0928,70,Kossuth Lajos tér M,"Erzsébet k.né útja, alulj."
+T8018,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_T8018-LPJERGkzTnSSkAw18_CiFA,47.49183,19.116613,,,
+RVY720,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.46245,19.150385,,,
+T8015,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C35288794,47.509968,19.083313,70,Kossuth Lajos tér M,"Erzsébet k.né útja, alulj."
+RVY717,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C373222159,47.479527,19.088242,M3,Lehel tér M,Nagyvárad tér M
+MFW532,Volvo szóló autóbusz,BUS,BKK_C369131162,47.546806,19.14248,46,Helikopter lakópark,"Újpalota, Nyírpalota út"
+NCA527,MERCEDES Conecto csuklós,BUS,BKK_C364671489,47.49875,19.07658,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+RVY718,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C373222126,47.48555,19.070593,M3,Lehel tér M,Nagyvárad tér M
+T0359,MAN NGE152 típusú csuklós trolibusz,TROLLEYBUS,,47.49161,19.115553,,,
+RVY715,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_RVY715-h5HCEuiVTK-hgvQF2uZO8g,47.42773,19.157158,,,
+MHK907,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C352262658,47.503914,19.143246,276E,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+NCA525,MERCEDES Conecto csuklós,BUS,BKK_C326931194,47.41817,19.068138,36,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+T8013,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,,47.491512,19.115097,,,
+MHK906,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C37096414,47.500328,19.135592,32,Göncz Árpád városkp. M,Örs vezér tere M H
+T8011,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C290241358,47.512043,19.092638,74,Károly körút (Astoria M),Csáktornya park
+RVY713,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.426636,19.158978,,,
+T8012,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C35044380,47.50662,19.055773,78,Kossuth Lajos tér M,Keleti pu. M (Garay utca)
+RVY714,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C3781025922,47.489857,19.13674,85,Kőbánya-Kispest M,Örs vezér tere M H
+PKN605,MERCEDES Conecto szóló (BKV),BUS,,47.49931,19.237143,,,
+RVY711,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C373222151,47.50668,19.054974,M3,Lehel tér M,Nagyvárad tér M
+T8010,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,,47.491955,19.116043,,,
+NCA522,MERCEDES Conecto csuklós,BUS,BKK_C35199875,47.476963,19.02462,139,Széll Kálmán tér M,Gazdagréti tér
+RVY712,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.42762,19.156858,,,
+T0209,GVM (Ikarus 280)típusú trolibusz,TROLLEYBUS,,47.491234,19.116058,87,Mechanikai Művek,Kelenföld vasútállomás M
+T9009,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971408,47.499557,19.083242,80,Keleti pályaudvar M,Örs vezér tere M H
+MHK916,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C357632464,47.492256,19.14087,161,Rákoscsaba,Örs vezér tere M H
+T9007,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971413,47.503315,19.11825,80,Keleti pályaudvar M,Örs vezér tere M H
+T9008,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971399,47.49987,19.084095,80,Keleti pályaudvar M,Örs vezér tere M H
+NCA506,MERCEDES Conecto csuklós,BUS,,47.4579,19.029177,33,"Nagytétény, ipartelep",Móricz Zs. körtér M
+MHK915,Volvo 7000A típusú csuklós autóbusz,BUS,,47.501102,19.236862,,,
+T9005,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,,47.491238,19.115719,,,
+NCA503,MERCEDES Conecto csuklós,BUS,BKK_C24060666,47.46663,19.05302,33,"Nagytétény, ipartelep",Móricz Zs. körtér M
+NCA504,MERCEDES Conecto csuklós,BUS,BKK_C24060676,47.45822,19.02726,33,"Nagytétény, ipartelep",Móricz Zs. körtér M
+T9003,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C374971379,47.503998,19.136683,80,Keleti pályaudvar M,Örs vezér tere M H
+MFW521,Volvo szóló autóbusz,BUS,BKK_C35422178,47.509174,19.128971,130,"Újpalota, Sárfű utca",Puskás Ferenc Stadion M
+NCA502,MERCEDES Conecto csuklós,BUS,BKK_C365515816,47.478127,18.990898,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+MHK914,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_MHK914-lFFFXnSUQR2ypb1M1DNDUQ,47.501884,19.235739,,,
+T9001,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,BKK_C37455338,47.489178,19.086226,83,Fővám tér M,Orczy tér
+NCA532,MERCEDES Conecto csuklós,BUS,BKK_C24060646,47.398563,19.001688,33,"Nagytétény, ipartelep",Móricz Zs. körtér M
+T9002,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,,47.49108,19.115051,,,
+MHK913,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C36434908,47.506504,19.204403,45,"Cinkota, Lassú utca",Örs vezér tere M H
+MFW523,Volvo szóló autóbusz,BUS,,47.474,19.026089,,,
+NCA530,MERCEDES Conecto csuklós,BUS,BKK_C365512406,47.54729,19.140125,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+T9111,4. gen. SOLARIS Trollino 18 trolibusz,TROLLEYBUS,BKK_C37455340,47.489468,19.070974,83,Fővám tér M,Orczy tér
+NCA531,MERCEDES Conecto csuklós,BUS,BKK_NCA531-daJ7l34ITCOAZkzieeXayA,47.457676,19.028791,,,
+MFW517,Volvo szóló autóbusz,BUS,BKK_C30114676,47.50486,19.136463,231,"R.palota, Széchenyi tér",Örs vezér tere M H
+MHK910,Volvo 7000A típusú csuklós autóbusz,BUS,,47.50128,19.236164,,,
+MHK909,Volvo 7000A típusú csuklós autóbusz,BUS,,47.500446,19.23661,,,
+RVY619,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_RVY619-crHB4IkBTTmsHhKMfdV36A,47.424496,19.130207,,,
+MHU873,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_B94521463,47.582714,19.082354,96,"Újpest, Fóti út","Újpalota, Szentmihályi út"
+PKN618,MERCEDES Conecto szóló (BKV),BUS,BKK_C34397282,47.502453,19.149183,277,Bosnyák tér,Örs vezér tere M H
+RVY617,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C373774035,47.43368,19.220854,266,"Ganztelep, Mednyánszky u.",Pestszentimre vasútáll.
+PKN615,MERCEDES Conecto szóló (BKV),BUS,BKK_C273761149,47.50329,19.137934,67,"Rákoskeresztúr, Aranylúd u.",Örs vezér tere M H
+T8000,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C35044378,47.502094,19.08218,78,Kossuth Lajos tér M,Keleti pu. M (Garay utca)
+SKR803,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C358321836,47.520947,19.01172,91,Széll Kálmán tér M,Nyugati pályaudvar M
+T9000,SKODA-SOLARIS Trollino 18 csuklós tr.,TROLLEYBUS,,47.49165,19.116278,,,
+MHU869,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313485,47.490982,19.013815,105,Gyöngyösi utca M,Apor Vilmos tér
+NCA454,MERCEDES Conecto csuklós,BUS,BKK_C38109465,47.478973,19.089962,100E,Liszt Ferenc Airport 2,Deák Ferenc tér M
+MHU868,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313456,47.49175,19.051786,178,Gyöngyösi utca M,Naphegy tér
+NCA455,MERCEDES Conecto csuklós,BUS,BKK_NCA455-H-VuZfBZTpKh5xUgzMo5rA,47.45856,19.027212,,,
+SKR801,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.4913,19.116781,,,
+PKN614,MERCEDES Conecto szóló (BKV),BUS,BKK_C279984032,47.540276,19.252777,92,Kistarcsa - Auchan Liget,Rákosszentmihály vasútáll.
+FKU931,Volvo 7700A típusú csuklós autóbusz,BUS,,47.492313,19.118034,,,
+FKU932,Volvo 7700A típusú csuklós autóbusz,BUS,,47.501163,19.235598,,,
+SKR735,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C373222130,47.502747,19.054834,M3,Lehel tér M,Nagyvárad tér M
+FKU933,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C369981061,47.531937,19.128206,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+MHU870,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313384,47.565907,19.1228,178,Gyöngyösi utca M,Naphegy tér
+SKR736,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.500717,19.236818,,,
+FKU926,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36434907,47.507862,19.173063,45,"Cinkota, Lassú utca",Örs vezér tere M H
+FKU927,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_FKU927-5Rwi8o-vSkaFyBwJ158XVg,47.492287,19.11677,,,
+MHU867,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313480,47.493458,19.032505,178,Gyöngyösi utca M,Naphegy tér
+FKU929,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C357632457,47.485004,19.224913,161,Rákoscsaba,Örs vezér tere M H
+FKU925,Volvo 7700A típusú csuklós autóbusz,BUS,,47.500416,19.135546,,,
+T0361,MAN NGE152 típusú csuklós trolibusz,TROLLEYBUS,,47.49174,19.115473,87,Mechanikai Művek,Kelenföld vasútállomás M
+PKN629,MERCEDES Conecto szóló (BKV),BUS,,47.499138,19.236475,,,
+PKN626,MERCEDES Conecto szóló (BKV),BUS,BKK_C369912126,47.5014,19.084341,112,Bosnyák tér,Thomán István utca
+RVY708,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.427544,19.159548,,,
+T8007,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C35288795,47.50605,19.056751,70,Kossuth Lajos tér M,"Erzsébet k.né útja, alulj."
+MFW506,Volvo szóló autóbusz,BUS,BKK_C372681079,47.534004,19.059475,15,Gyöngyösi utca M,Boráros tér H
+NCA519,MERCEDES Conecto csuklós,BUS,BKK_C365515821,47.49652,19.068068,8E,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+T8004,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,,47.491783,19.116394,,,
+NCA513,MERCEDES Conecto csuklós,BUS,BKK_C364671419,47.41251,19.033585,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+PKN624,MERCEDES Conecto szóló (BKV),BUS,BKK_C369912144,47.48994,19.036837,112,Bosnyák tér,Thomán István utca
+MHU878,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313326,47.49231,19.053566,105,Gyöngyösi utca M,Apor Vilmos tér
+T8005,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,,47.49111,19.11444,,,
+NCA517,MERCEDES Conecto csuklós,BUS,BKK_C364671459,47.547073,19.142122,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+PKN625,MERCEDES Conecto szóló (BKV),BUS,,47.500633,19.235447,,,
+RVY704,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.42714,19.157328,,,
+SKR809,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.491432,19.11652,,,
+PKN622,MERCEDES Conecto szóló (BKV),BUS,BKK_C35157272,47.44163,19.140694,68,"Akadémiaújtelep, 525. tér",Vas Gereben utca
+NKA344,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.568302,19.028978,,,
+NKA345,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C364887901,47.506676,19.038836,11,Nagybányai út,Batthyány tér M H
+PKN623,MERCEDES Conecto szóló (BKV),BUS,BKK_C369911852,47.500927,19.23535,110E,Bosnyák tér,Apor Vilmos tér
+RVY705,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.428173,19.15943,,,
+MHU875,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313461,47.49574,19.029507,105,Gyöngyösi utca M,Apor Vilmos tér
+RVY702,MERCEDES Conecto G 2 csuklós autóbusz,BUS,,47.435646,19.174173,,,
+T8001,SKODA-SOLARIS Trollino 12 szóló tr.,TROLLEYBUS,BKK_C290241382,47.536423,19.107306,74,Károly körút (Astoria M),Csáktornya park
+RVY703,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C367251816,47.46139,19.152378,136E,Havanna utcai lakótelep,Kőbánya-Kispest M
+FKU938,Volvo 7700A típusú csuklós autóbusz,BUS,,47.492302,19.116697,,,
+SKR808,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.492218,19.117567,,,
+NKA343,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.568,19.028399,,,
+FKU939,Volvo 7700A típusú csuklós autóbusz,BUS,,47.47396,19.028116,,,
+SKR805,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.492126,19.116022,,,
+MHU876,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313437,47.504154,19.061771,105,Gyöngyösi utca M,Apor Vilmos tér
+RVY701,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C373222086,47.476124,19.097485,M3,Lehel tér M,Nagyvárad tér M
+SKR806,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.491356,19.115881,,,
+NKA341,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C36965606,47.540176,19.046288,237,Jablonka út,Szentlélek tér H
+FKU934,Volvo 7700A típusú csuklós autóbusz,BUS,,47.483486,19.127686,,,
+FKU935,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C3781025934,47.46292,19.148558,85,Kőbánya-Kispest M,Örs vezér tere M H
+FKU912,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C360871120,47.598743,19.1213,30,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+RIW879,MAN Lions City GL NG313 csuklós busz,BUS,BKK_RIW879-Rt6j5BpwSmqrm5vlAXkBkw,47.426674,19.158222,,,
+MHU850,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35956921,47.53234,19.11744,124,"Rákospalota, Bogáncs utca",Bosnyák tér
+FKU913,Volvo 7700A típusú csuklós autóbusz,BUS,,47.49169,19.118132,,,
+MHU852,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C278302401,47.560722,19.082176,204,"B.megyer, Újmegyeri tér","Rákospalota, Kossuth utca"
+MHU847,MB Citaro C2-S1 szóló autóbusz,BUS,,47.572033,19.133791,,,
+NHB034,Modulo M108d szóló autóbusz,BUS,,47.473637,19.02803,,,
+RIW875,MAN Lions City GL NG313 csuklós busz,BUS,BKK_C365812028,47.427685,19.157177,54,"Péterimajor, Víztorony tér",Boráros tér H
+FKU910,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667863,47.489265,19.079678,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+MHU849,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_MHU849--ukQiByfRGOqRXtdnvQNjA,47.574017,19.100355,,,
+NGC032,Modulo M108d szóló autóbusz,BUS,,47.47423,19.02889,,,
+SGY983,Modulo M168d csuklós autóbusz,BUS,,47.474342,19.0262,,,
+MDD721,Ikarus 187V típusú csuklós autóbusz,BUS,BKK_C369981056,47.547497,19.141882,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+FKU905,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C360871050,47.499794,19.084265,30A,Keleti pályaudvar M,"Megyer, Szondi utca"
+TSM001,Volvo szóló autóbusz,BUS,,47.442013,19.186144,,,
+MHU862,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35956913,47.566032,19.12299,125,"Rákospalota, MEDIMPEX",Bosnyák tér
+RVY608,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C36292657,47.426937,19.16075,117,Mélytó utca,Kőbánya alsó vasútáll.
+FKU923,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C3781025938,47.473587,19.160458,85,Kőbánya-Kispest M,Örs vezér tere M H
+NCA448,MERCEDES Conecto csuklós,BUS,BKK_NCA448-z3xd3ZWWTvit18b0pdE37Q,47.44335,19.08336,,,
+MHU861,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35956892,47.572117,19.133888,125,"Rákospalota, MEDIMPEX",Bosnyák tér
+RVY606,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.427444,19.157446,,,
+SKR728,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C373222134,47.508068,19.055023,M3,Lehel tér M,Nagyvárad tér M
+NCA445,MERCEDES Conecto csuklós,BUS,,47.458878,19.028978,,,
+MHU863,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C27962848,47.57543,19.104364,220,"Újpest, Erdősor út",Újpest-központ M
+RVY607,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.427017,19.15845,,,
+SKR726,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C320522732,47.43289,19.261703,200E,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+FKU920,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667881,47.49902,19.054758,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+SKR727,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C320522712,47.4629,19.149998,200E,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+NCA441,MERCEDES Conecto csuklós,BUS,BKK_C364699132,47.440037,19.104633,66,"Soroksár, közp. raktárak",Határ út M
+SKR724,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C320522704,47.462894,19.14944,200E,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+NCA442,MERCEDES Conecto csuklós,BUS,BKK_C364671425,47.425816,19.03967,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+MHU859,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_B94521439,47.572086,19.133852,96,"Újpest, Fóti út","Újpalota, Szentmihályi út"
+RVY610,MERCEDES Conecto 2 szóló autóbusz,BUS,,47.427036,19.159042,,,
+MHU854,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_B93550185,47.55512,19.101654,120,Újpest-központ M,Göncz Árpád városkp. M
+SKR722,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C320522734,47.450737,19.201786,200E,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+RVY601,MERCEDES Conecto 2 szóló autóbusz,BUS,BKK_C385591793,47.470142,19.127193,99,Mátyás király tér,Blaha Lujza tér M
+SKR723,MERCEDES Conecto G 2 csuklós autóbusz,BUS,BKK_C320522720,47.45048,19.202621,200E,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+FKU917,Volvo 7700A típusú csuklós autóbusz,BUS,,47.49132,19.116236,,,
+FKU914,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C360871096,47.577377,19.093111,30,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+MHU829,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35423403,47.520004,19.09124,25,Újpest-központ M,Mexikói út M
+FJX226,Volvo 7700A típusú csuklós autóbusz,BUS,,47.473717,19.02613,,,
+RVY748,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,,47.507576,19.11255,,,
+RVY749,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C37663752,47.50153,19.136274,169E,"Pécel, Kun József utca",Örs vezér tere M H
+FJX228,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667851,47.543304,19.042295,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+MHU831,MB Citaro C2-S1 szóló autóbusz,BUS,,47.57169,19.135382,,,
+NCA496,MERCEDES Conecto csuklós,BUS,BKK_C346219546,47.454197,19.140474,151,Kőbánya alsó vasútáll.,"Csepel, Határ utca"
+RVY747,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C37669664,47.385464,19.20485,89E,"Gyál, Bem József utca",Határ út M
+LMG072,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,,47.56726,19.03225,,,
+NCA493,MERCEDES Conecto csuklós,BUS,BKK_NCA493-0CR2BljCR5SywbRefIhGyA,47.434624,19.070686,,,
+MHU825,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C278302423,47.574234,19.081156,104A,"Székesdűlő, ipartelep","Rákospalota, Kossuth utca"
+FJX223,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C369981048,47.536667,19.13431,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+MHU824,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C3596415,47.53835,19.133583,224,"Újpalota, Szentmihályi út","Újpalota, Szentmihályi út"
+RVY745,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,,47.507618,19.112604,,,
+MHU827,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C354313365,47.54909,19.073568,105,Gyöngyösi utca M,Apor Vilmos tér
+RVY742,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C35933325,47.47948,19.067238,55,"Gyál, Vecsési út",Boráros tér H
+FJX225,Volvo 7700A típusú csuklós autóbusz,BUS,,47.47391,19.029194,,,
+NGC020,Modulo M108d szóló autóbusz,BUS,,47.494556,19.011398,,,
+RVY750,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_RVY750-D0xTCqaiTnevfJIL62E1lA,47.506966,19.11133,,,
+NCA499,MERCEDES Conecto csuklós,BUS,BKK_NCA499-yGJJhRfHQmGRosTiw-J5uA,47.470863,19.11178,,,
+NGC019,Modulo M108d szóló autóbusz,BUS,,47.473644,19.027294,,,
+FJX220,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667873,47.48362,19.117977,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+FJX221,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667867,47.482864,19.125757,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+MHU840,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_B94521451,47.543636,19.139841,96,"Újpest, Fóti út","Újpalota, Szentmihályi út"
+FKU902,Volvo 7700A típusú csuklós autóbusz,BUS,,47.49233,19.117664,,,
+SCD596,VanHool A330 CNG típusú szóló autóbusz,BUS,BKK_C385591775,47.45959,19.126534,99,Mátyás király tér,Blaha Lujza tér M
+MHU839,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35423400,47.542515,19.109987,25,Újpest-központ M,Mexikói út M
+MHU842,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C21508918,47.57184,19.08745,147,"Megyer, Julianus barát u.",Újpest-központ M
+NGC025,Modulo M108d szóló autóbusz,BUS,,47.474567,19.027908,,,
+SIF012,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_SIF012-GVXSIoHbQ3KmTHZS0HgbMw,47.567966,19.031591,,,
+FJX233,Volvo 7700A típusú csuklós autóbusz,BUS,,47.47356,19.02644,,,
+FJX234,Volvo 7700A típusú csuklós autóbusz,BUS,,47.474262,19.02832,,,
+MHU838,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35423401,47.56014,19.098017,25,Újpest-központ M,Mexikói út M
+MHU837,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35956907,47.562687,19.112381,124,"Rákospalota, Bogáncs utca",Bosnyák tér
+RRP798,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.498955,19.236763,,,
+NGC022,Modulo M108d szóló autóbusz,BUS,,47.47408,19.028128,,,
+SIE954,Volvo szóló autóbusz,BUS,BKK_SIE954-Mzy7VinvTgKJNvkVQ2v6WA,47.479973,19.067312,,,
+NGC030,Modulo M108d szóló autóbusz,BUS,BKK_C376087476,47.50329,19.000439,21,Széll Kálmán tér M,"Csillebérc, KFKI"
+MHU834,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_MHU834-hATQNDRjRZ6lfl_kV4bHsA,47.572136,19.13391,,,
+MRP099,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C2764113737,47.455975,18.94038,40,Budaörsi lakótelep,Kelenföld vasútállomás M
+NWB355,MERCEDES Conecto szóló (BKV),BUS,BKK_C369644046,47.53327,19.177748,31,"Árpádföld, Bekecs utca",Örs vezér tere M H
+1111,MXA,SUBURBAN_RAILWAY,BKK_H4131_3,47.557243,19.045555,H5,Szentendre,Batthyány tér
+RVY726,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,,47.506763,19.11088,,,
+MHU806,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_B93550182,47.531765,19.0684,120,Újpest-központ M,Göncz Árpád városkp. M
+FJX205,Volvo 7700A típusú csuklós autóbusz,BUS,,47.473534,19.028107,,,
+FJX206,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667877,47.489407,19.070354,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+MRP100,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C15097399,47.432053,19.04408,287,Budatétény vá. (Campona),Budaörsi lakótelep
+NWB352,MERCEDES Conecto szóló (BKV),BUS,BKK_C3691011956,47.475456,19.254576,98,Rákoscsaba vasútállomás,Kőbánya-Kispest M
+1135,MXA,SUBURBAN_RAILWAY,BKK_H4188_4,47.554543,19.044712,H5,Szentendre,Batthyány tér
+MHU805,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C278302415,47.56927,19.124714,104A,"Székesdűlő, ipartelep","Rákospalota, Kossuth utca"
+FJX202,Volvo 7700A típusú csuklós autóbusz,BUS,,47.47369,19.026228,,,
+MHU810,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C11275124,47.60901,19.117342,126,"Dunakeszi, Auchan áruház","Káp.megyer, Szilas-patak"
+RVY728,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C37663776,47.48221,19.342833,169E,"Pécel, Kun József utca",Örs vezér tere M H
+MHU812,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C21508723,47.580006,19.12721,270,"Rákospalota, Csömöri-p.",Újpest-központ M
+1101-1107,MXA-MXA,SUBURBAN_RAILWAY,BKK_H4178_4,47.64332,19.031893,H5,Szentendre,Batthyány tér
+BPI048,Ikarus 412-es típusú autóbusz,BUS,,47.428352,19.15671,,,
+V1540,TW 6000,TRAM,BKK_C175521370,47.45444,19.140165,42,"Kispest, Tulipán utca",Határ út M
+MRP092,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C30089261,47.55608,19.026752,218,"Solymár, Auchan áruház",Szentlélek tér H
+RVY737,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C37663782,47.48518,19.228695,169E,"Pécel, Kun József utca",Örs vezér tere M H
+MHU818,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C35956904,47.536945,19.115131,125,"Rákospalota, MEDIMPEX",Bosnyák tér
+BPI829,Ikarus 280-as típusú autóbusz,BUS,,47.568733,19.02869,,,
+NCA485,MERCEDES Conecto csuklós,BUS,BKK_C365621013,47.48369,19.236837,97E,Rákoskert sugárút,Örs vezér tere M H
+FJX217,Volvo 7700A típusú csuklós autóbusz,BUS,,47.47364,19.029009,907,Örs vezér tere M H,Kelenföld vasútállomás M
+RVY736,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C37669148,47.42054,19.164202,294E,"Gyál, Vecsési út",Határ út M
+MHU819,MB Citaro C2-S1 szóló autóbusz,BUS,,47.57086,19.133734,,,
+FJX218,Volvo 7700A típusú csuklós autóbusz,BUS,,47.474625,19.027687,,,
+NCA484,MERCEDES Conecto csuklós,BUS,BKK_C364671431,47.482235,19.053848,133E,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+NWB363,MERCEDES Conecto szóló (BKV),BUS,,47.498566,19.236832,,,
+NWB360,MERCEDES Conecto szóló (BKV),BUS,BKK_NWB360-uqIQX686Tm2yb_jLqSBVhg,47.500843,19.23682,,,
+FJX214,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C369981076,47.444405,19.033775,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+RVY732,MERCEDES Conecto G 3 csuklós busz(Volán),BUS,BKK_C37663778,47.49173,19.336025,169E,"Pécel, Kun József utca",Örs vezér tere M H
+MHU822,MB Citaro C2-S1 szóló autóbusz,BUS,BKK_C21508716,47.56041,19.090824,270,"Rákospalota, Csömöri-p.",Újpest-központ M
+FJX219,Volvo 7700A típusú csuklós autóbusz,BUS,,47.47401,19.028278,,,
+NCA491,MERCEDES Conecto csuklós,BUS,BKK_C326931240,47.454792,19.181515,36,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+NCA488,MERCEDES Conecto csuklós,BUS,BKK_C364699712,47.37829,19.130476,66,"Soroksár, közp. raktárak",Határ út M
+NCA489,MERCEDES Conecto csuklós,BUS,BKK_C364698994,47.452343,19.109816,66B,"Soroksár, BILK",Határ út M
+BPI835,Ikarus 280-as típusú autóbusz,BUS,,47.56893,19.029263,,,
+V1524,TW 6000,TRAM,BKK_C175521362,47.463085,19.125586,52,"P.erzsébet, Pacsirtatelep",Határ út M
+MRP079,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C1794645906,47.432064,19.044153,173,Kelenföld vasútállomás M,Törökbálint vasútállomás
+NTP543,Modulo M108d szóló autóbusz,BUS,BKK_C363813326,47.489166,19.024855,212,Svábhegy,Boráros tér H
+FJX186,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_FJX186-HKc7ZaNxRVCeeYBubUGyKg,47.473312,19.027687,,,
+NTP540,Modulo M108d szóló autóbusz,BUS,BKK_C376087480,47.506676,19.023855,21A,Széll Kálmán tér M,Normafa
+FJX189,Volvo 7700A típusú csuklós autóbusz,BUS,,47.474655,19.027866,,,
+V1534,TW 6000,TRAM,BKK_C19325523,47.519035,19.09133,69,"Újpalota, Erdőkerülő utca",Mexikói út M
+NTP546,Modulo M108d szóló autóbusz,BUS,,47.47364,19.029037,,,
+MRP089,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C1794647196,47.46495,19.018076,172,Kelenföld vasútállomás M,Törökbálint vasútállomás
+NTP526,Volvo 7000A típusú csuklós autóbusz,BUS,BKK_C352262081,47.506744,19.21076,276E,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+MRP084,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C31326327,47.431515,19.042719,240,Móricz Zs. körtér M,Budaörsi lakótelep
+NTP544,Modulo M108d szóló autóbusz,BUS,BKK_C354313413,47.548897,19.07352,105,Gyöngyösi utca M,Apor Vilmos tér
+NTP545,Modulo M108d szóló autóbusz,BUS,BKK_C383551069,47.50706,19.023129,102,Szendrő utca,Széll Kálmán tér M
+FJX191,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C369981038,47.49465,19.060951,7,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+FJX197,Volvo 7700A típusú csuklós autóbusz,BUS,BKK_C36667855,47.513134,19.048248,9,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+NUV682,VanHool NewA330 szóló autóbusz,BUS,,47.426903,19.15869,,,
+NUU956,Volvo szóló autóbusz,BUS,,47.47409,19.025747,,,
+MRP082,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,,47.431774,19.042736,,,
+V1528,TW 6000,TRAM,BKK_C19325520,47.54483,19.139137,69,"Újpalota, Erdőkerülő utca",Mexikói út M
+T0710,Ikarus 412-es típusú trolibusz,TROLLEYBUS,,47.491035,19.115227,,,
+MRP055,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.432003,19.043192,,,
+MXJ008,Ikarus 127V típusú szóló autóbusz,BUS,,47.47373,19.02798,,,
+V4107,Tátra T5C5K,TRAM,BKK_C363526123J,47.47654,19.099457,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+V1501,TW 6000,TRAM,BKK_C19325519,47.532677,19.1108,69,"Újpalota, Erdőkerülő utca",Mexikói út M
+MXJ006,Ikarus 127V típusú szóló autóbusz,BUS,,47.484253,19.02671,,,
+T0708,Ikarus 412-es típusú trolibusz,TROLLEYBUS,,47.50409,19.100798,,,
+MRP053,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.432114,19.044062,,,
+MMM137,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C35482403,47.539154,19.040443,109,Batthyány tér M H,"Óbuda, Bogdáni út"
+MRP059,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.452896,18.957436,,,
+MRP058,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C2764114663,47.464424,19.018848,88A,"Törökbálint, Márta utca",Kelenföld vasútállomás M
+T0713,Ikarus 412-es típusú trolibusz,TROLLEYBUS,,47.49147,19.117779,,,
+MRP060,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C2764110144,47.45929,18.939133,40,Budaörsi lakótelep,Kelenföld vasútállomás M
+MRP066,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C2764110148,47.461014,18.948774,40,Budaörsi lakótelep,Kelenföld vasútállomás M
+T0721,Ikarus 412.81GT típusú trolibusz,TROLLEYBUS,,47.491722,19.116142,,,
+MMM140,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.56787,19.031944,,,
+NTM434,Modulo M108d szóló autóbusz (rend.tart.),BUS,,47.47386,19.027153,,,
+BPO646,Ikarus 260-as típusú autóbusz,BUS,BKK_C369644044,47.51364,19.136686,31,"Árpádföld, Bekecs utca",Örs vezér tere M H
+MRP065,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_MRP065-3RdwIROcTYqHrGW59r61MQ,47.540108,19.04608,,,
+MMM139,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C38232175,47.54088,19.041613,118,Óbudai autóbuszgarázs,Szentlélek tér H
+SVA736,Modulo M168d csuklós autóbusz,BUS,BKK_C373222153,47.501453,19.054876,M3,Lehel tér M,Nagyvárad tér M
+NTM432,Modulo M108d szóló autóbusz (rend.tart.),BUS,,47.47416,19.02634,,,
+MXJ017,Ikarus 127V típusú szóló autóbusz,BUS,BKK_C363812505,47.475346,19.05653,212,Svábhegy,Boráros tér H
+NTM438,Modulo M108d szóló autóbusz (rend.tart.),BUS,BKK_C354313362,47.522476,19.08058,105,Gyöngyösi utca M,Apor Vilmos tér
+NTM439,Modulo M108d szóló autóbusz (rend.tart.),BUS,BKK_C372681061,47.48161,19.064571,15,Gyöngyösi utca M,Boráros tér H
+MRP071,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C1794646716,47.436123,18.926737,172,Kelenföld vasútállomás M,Törökbálint vasútállomás
+BPI021,Ikarus 412-es típusú autóbusz,BUS,BKK_C369922611,47.477444,19.165579,95,Felsőcsatári köz,Puskás Ferenc Stadion M
+BPI016,Ikarus 412-es típusú autóbusz,BUS,,47.426994,19.158615,,,
+BPO241,Ikarus 412-es típusú autóbusz,BUS,BKK_C35157274,47.481186,19.177567,68,"Akadémiaújtelep, 525. tér",Vas Gereben utca
+MXJ005,Ikarus 127V típusú szóló autóbusz,BUS,,47.47361,19.027134,,,
+MPW636,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.41615,19.205076,266,"Ganztelep, Mednyánszky u.",Pestszentimre vasútáll.
+MXJ004,Ikarus 127V típusú szóló autóbusz,BUS,,47.473484,19.0276,,,
+PKD001,Ikarus 127V típusú szóló autóbusz,BUS,BKK_C354313410,47.549393,19.074219,178,Gyöngyösi utca M,Naphegy tér
+LYH106,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C35593534,47.527702,19.036655,65A,Fenyőgyöngye,Kolosy tér
+MUM647,VanHool A330 CNG típusú szóló autóbusz,BUS,BKK_C385591754,47.49459,19.077219,99,Mátyás király tér,Blaha Lujza tér M
+T0616,GANZ-SOLARIS Trollino 12 trolibusz,TROLLEYBUS,BKK_C358882519,47.51784,19.051264,76,Jászai Mari tér,Keleti pályaudvar M
+LYH107,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.567665,19.032642,,,
+LYH109,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C35482402,47.53637,19.039932,109,Batthyány tér M H,"Óbuda, Bogdáni út"
+V4092,Tátra T5C5K,TRAM,BKK_C34893977,47.46319,19.02301,1,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+MUM642,VanHool A330 CNG típusú szóló autóbusz,BUS,,47.427067,19.158566,,,
+LYH110,MERCEDES Citaro O 530 (BKV spec.),BUS,,47.567917,19.031805,,,
+V4100,Tátra T5C5K,TRAM,BKK_C35245148,47.51724,19.061268,14,"Káp.megyer, Megyeri út",Lehel tér M
+MXJ007,Ikarus 127V típusú szóló autóbusz,BUS,BKK_C363813686,47.47963,19.067106,212,Svábhegy,Boráros tér H
+V4331,Tátra T5C5K,TRAM,BKK_C3474325937,47.52206,18.990301,61,Móricz Zs. körtér M,Hűvösvölgy
+MRZ395,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C25221174,47.5588,18.921,63,"Nagykovácsi, Tisza I. tér",Hűvösvölgy
+MRZ398,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C3131314506,47.56281,18.962948,164,"Solymár, PEMÜ",Hűvösvölgy
+V4024,Tátra T5C5K,TRAM,BKK_C3474325984,47.521854,18.99046,56A,Móricz Zs. körtér M,Hűvösvölgy
+MRZ249,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C25221172,47.543182,18.96452,63,"Nagykovácsi, Tisza I. tér",Hűvösvölgy
+MRZ352,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C29078136,47.51407,18.922596,222,"Budakeszi, Honfoglalás sét.",Széll Kálmán tér M
+MRZ250,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,,47.54293,18.964094,,,
+NCV288,Karsan ATAK típusú midi autóbusz,BUS,BKK_C358161011,47.519928,18.992855,129,Szent Ferenc Kórház,Széll Kálmán tér M
+MHU724,MB Citaro C2-S1-G csuklós autóbusz,BUS,BKK_C355542520,47.52377,18.99319,5,"Rákospalota, Kossuth utca",Pasaréti tér
+NGC142,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C36454426,47.526752,18.994734,29,Hűvösvölgy,Szentlélek tér H
+SRN169,Solaris Urbino 10 típusú midi autóbusz,BUS,BKK_C37590229,47.566803,18.942091,157A,"Budaliget, Géza f. útja",Hűvösvölgy
+LMG095,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,BKK_C36454403,47.542892,18.964598,29,Hűvösvölgy,Szentlélek tér H
+LMG002,VOLVO-ALFABUSZ Civis 12 típ.szóló autób.,BUS,BKK_C36454405,47.528557,18.996956,29,Hűvösvölgy,Szentlélek tér H
+MRZ381,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C3131314511,47.543045,18.964598,64A,"Solymár, Templom tér",Hűvösvölgy
+MRZ382,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C29078473,47.51753,18.993387,22A,"Budakeszi, Dózsa Gy. tér",Széll Kálmán tér M
+MRZ357,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C29078952,47.518494,18.985008,22A,"Budakeszi, Dózsa Gy. tér",Széll Kálmán tér M
+V4231,Tátra T5C5K,TRAM,BKK_C3474325991,47.54306,18.964329,61,Móricz Zs. körtér M,Hűvösvölgy
+V4142,Tátra T5C5K,TRAM,,47.543224,18.964216,,,
+V4127,Tátra T5C5K,TRAM,,47.51773,18.993198,,,
+LYH130,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_LYH130-GxfpFZQ9TUeBZ4W2CmsXUg,47.51822,18.986544,,,
+V4132,Tátra T5C5K,TRAM,,47.5177,18.99289,,,
+NCZ563,Volvo szóló autóbusz,BUS,BKK_C344951175,47.54291,18.964191,57,Hűvösvölgy,Remetekertváros
+PCC930,MERCEDES Citaro O 530 (BKV spec.),BUS,BKK_C364887896,47.533684,18.99337,11,Nagybányai út,Batthyány tér M H
+NGC031,Modulo M108d szóló autóbusz,BUS,,47.500744,18.965933,,,
+NGC028,Modulo M108d szóló autóbusz,BUS,BKK_C363814092,47.50379,18.9991,212,Svábhegy,Boráros tér H
+NGC024,Modulo M108d szóló autóbusz,BUS,BKK_C376087486,47.505505,18.993124,21,Széll Kálmán tér M,"Csillebérc, KFKI"
+MRP094,"MAN A21 szóló (Volán, helyi, 3 ajtós)",BUS,BKK_C14969249,47.514126,18.921957,188,Honfoglalás sétány,Kelenföld vasútállomás M
+NTP539,Modulo M108d szóló autóbusz,BUS,BKK_C376087491,47.500736,18.965778,21A,Széll Kálmán tér M,Normafa
+MXJ011,Ikarus 127V típusú szóló autóbusz,BUS,BKK_C37132502,47.511494,18.98256,155,Fácános tér,Széll Kálmán tér M
+MRP068,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,BKK_C30089259,47.583244,18.999727,218,"Solymár, Auchan áruház",Szentlélek tér H
+MRP062,"MAN A21 szóló (Volán, helyközi, 2 ajtós)",BUS,,47.55199,18.964115,,,
+MPV997,Solaris Urbino 10 típusú midi autóbusz,BUS,BKK_C37590227,47.5428,18.964838,157,"Solymár, Kerekhegy",Hűvösvölgy

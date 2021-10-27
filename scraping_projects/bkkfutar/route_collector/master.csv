@@ -1,0 +1,333 @@
+id,num_of_stops,total_distance,shortName,type,From,To
+BKK_0540,33.0,16722.0,54,BUS,"Péterimajor, Víztorony tér",Boráros tér H
+BKK_VP50,7.0,3093.0,50,BUS,Lajosmizsei sorompó,Határ út M
+BKK_3020,12.0,6070.0,2,TRAM,Jászai Mari tér,Közvágóhíd H
+BKK_2361,28.0,11019.0,236A,BUS,Havanna utcai lakótelep,"Ganztelep, Mednyánszky u."
+BKK_1231,20.0,8834.0,123A,BUS,Szentlőrinci úti ltp.,Határ út M
+BKK_3560,36.0,17130.0,56,TRAM,Városház tér,Hűvösvölgy
+BKK_3490,11.0,5394.0,49,TRAM,Kelenföld vasútállomás M,Deák Ferenc tér M
+BKK_3610,25.0,11078.0,61,TRAM,Móricz Zs. körtér M,Hűvösvölgy
+BKK_2234,20.0,11978.0,223M,BUS,Boráros tér H,Szentlőrinci úti ltp.
+BKK_0980,36.0,15535.0,98,BUS,Rákoscsaba vasútállomás,Kőbánya-Kispest M
+BKK_3190,24.0,11258.0,19,TRAM,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+BKK_2360,31.0,12911.0,236,BUS,Havanna utcai lakótelep,Market Central Ferihegy
+BKK_0205,21.0,13382.0,20E,BUS,Keleti pályaudvar M,"Káp.megyer, Szilas-patak"
+BKK_3014,19.0,11204.0,1M,TRAM,Népliget M,Bécsi út / Vörösvári út
+BKK_2980,7.0,2783.0,298,BUS,Zimonyi utca,Rákoscsaba vasútállomás
+BKK_1335,38.0,26796.0,133E,BUS,"Újpalota, Nyírpalota út","Nagytétény, Erdélyi utca"
+BKK_0270,11.0,3725.0,27,BUS,Citadella - Sánc utca,Móricz Zs. körtér M
+BKK_3010,31.0,18178.0,1,TRAM,Kelenföld vasútállomás M,Bécsi út / Vörösvári út
+BKK_1365,8.0,5321.0,136E,BUS,Havanna utcai lakótelep,Kőbánya-Kispest M
+BKK_3590,16.0,6476.0,59,TRAM,Márton Áron tér,Szent János Kórház
+BKK_0881,35.0,16845.0,88A,BUS,"Törökbálint, Márta utca",Kelenföld vasútállomás M
+BKK_0402,16.0,7601.0,40B,BUS,Budaörsi lakótelep,Kelenföld vasútállomás M
+BKK_3120,10.0,4689.0,12,TRAM,"Rákospalota, Kossuth utca",Angyalföld kocsiszín
+BKK_0211,16.0,6998.0,21A,BUS,Széll Kálmán tér M,Normafa
+BKK_3140,24.0,11109.0,14,TRAM,"Káp.megyer, Megyeri út",Lehel tér M
+BKK_0670,21.0,11444.0,67,BUS,"Rákoskeresztúr, Aranylúd u.",Örs vezér tere M H
+BKK_3030,31.0,13502.0,3,TRAM,Mexikói út M,Gubacsi út / Határ út
+BKK_2170,23.0,9532.0,217,BUS,Szarvas csárda tér,Kőbánya alsó vasútáll.
+BKK_2770,27.0,11956.0,277,BUS,Bosnyák tér,Örs vezér tere M H
+BKK_1620,39.0,20841.0,162,BUS,"Maglód, Auchan áruház",Kőbánya alsó vasútáll.
+BKK_1621,23.0,10816.0,162A,BUS,"Rákoskeresztúr, városkp.",Kőbánya alsó vasútáll.
+BKK_1740,16.0,7811.0,174,BUS,Cinkota H,Örs vezér tere M H
+BKK_0985,21.0,10920.0,98E,BUS,Rákoshegy vasútállomás,Kőbánya-Kispest M
+BKK_1120,30.0,12421.0,112,BUS,Bosnyák tér,Thomán István utca
+BKK_1750,15.0,6758.0,175,BUS,Cinkota H,"Újpalota, Szentmihályi út"
+BKK_1611,19.0,9925.0,161A,BUS,"R.keresztúr, Kis utcai ltp.",Örs vezér tere M H
+BKK_0680,29.0,12240.0,68,BUS,"Akadémiaújtelep, 525. tér",Vas Gereben utca
+BKK_1440,15.0,6691.0,144,BUS,"R.szentmihály, Csömöri út",Örs vezér tere M H
+BKK_1765,28.0,15205.0,176E,BUS,"R.csaba-Újtelep, Tóalmás u.",Örs vezér tere M H
+BKK_0920,24.0,11875.0,92,BUS,Kistarcsa - Auchan Liget,Rákosszentmihály vasútáll.
+BKK_1510,35.0,16512.0,151,BUS,Kőbánya alsó vasútáll.,"Csepel, Határ utca"
+BKK_0360,43.0,19508.0,36,BUS,"Csepel, Csillagtelep",Pestszentlőrinc vasútáll.
+BKK_0330,29.0,16150.0,33,BUS,"Nagytétény, ipartelep",Móricz Zs. körtér M
+BKK_1944,8.0,7041.0,194M,BUS,Gloriett lakótelep,Határ út M
+BKK_2310,28.0,12599.0,231,BUS,"R.palota, Széchenyi tér",Örs vezér tere M H
+BKK_H8,18.0,23111.0,H8,SUBURBAN_RAILWAY,Gödöllő,Örs vezér tere
+BKK_1480,38.0,17690.0,148,BUS,"Csepel, Soroksári rév",Kőbánya-Kispest M
+BKK_H7,6.0,6471.0,H7,SUBURBAN_RAILWAY,Csepel,Boráros tér
+BKK_H6,21.0,40115.0,H6,SUBURBAN_RAILWAY,Ráckeve,Közvágóhíd
+BKK_2500,25.0,11573.0,250,BUS,Savoya Park,Kelenföld vasútállomás M
+BKK_1390,16.0,8242.0,139,BUS,Széll Kálmán tér M,Gazdagréti tér
+BKK_0530,18.0,7341.0,53,BUS,Mindszenty J. bíboros tér,Móricz Zs. körtér M
+BKK_1500,39.0,17695.0,150,BUS,Budatétény vá. (Campona),Móricz Zs. körtér M
+BKK_0085,41.0,20726.0,8E,BUS,"Újpalota, Nyírpalota út",Kelenföld vasútállomás M
+BKK_0665,14.0,13936.0,66E,BUS,"Soroksár, BILK",Határ út M
+BKK_1005,3.0,20789.0,100E,BUS,Liszt Ferenc Airport 2,Deák Ferenc tér M
+BKK_2502,24.0,10490.0,250B,BUS,Savoyai J. tér (Törley tér),Kelenföld vasútállomás M
+BKK_0161,5.0,1417.0,16A,BUS,Dísz tér,Széll Kálmán tér M
+BKK_0160,9.0,3813.0,16,BUS,Clark Ádám tér,Széll Kálmán tér M
+BKK_1140,32.0,14101.0,114,BUS,"Baross G.-telep, Ispiláng u.",Móricz Zs. körtér M
+BKK_1910,7.0,3365.0,191,BUS,Sarolta utca,Nyugati pályaudvar M
+BKK_VP60,4.0,1953.0,60,BUS,Széchenyi-hegy,Svábhegy
+BKK_1410,18.0,13388.0,141,BUS,Savoya Park,Kelenföld vasútállomás M
+BKK_1540,23.0,10055.0,154,BUS,Infopark - BudaPart,Gazdagréti tér
+BKK_3500,13.0,5366.0,50,TRAM,"Pestszentlőrinc, Béke tér",Villanytelep
+BKK_1380,20.0,14049.0,138,BUS,Budatétény vá. (Campona),"Csepel, Szent Imre tér"
+BKK_1160,8.0,2079.0,116,BUS,Dísz tér,Fény utcai piac
+BKK_1840,25.0,11259.0,184,BUS,"Pestszentimre, Benjámin u.",Kőbánya-Kispest M
+BKK_0710,30.0,13166.0,71,BUS,Szentmiklósi út,Szent Imre tér
+BKK_1340,20.0,9885.0,134,BUS,"B.megyer, Újmegyeri tér",Szentlélek tér H
+BKK_1530,37.0,15689.0,153,BUS,Infopark,Gazdagréti tér
+BKK_0950,21.0,10170.0,95,BUS,Felsőcsatári köz,Puskás Ferenc Stadion M
+BKK_1810,17.0,5172.0,181,BUS,Ecseri út M - József A. ltp.,Ecseri út M - Aszódi utca
+BKK_0070,39.0,17395.0,7,BUS,"Újpalota, Nyírpalota út",Albertfalva vasútállomás
+BKK_1090,12.0,5399.0,109,BUS,Batthyány tér M H,"Óbuda, Bogdáni út"
+BKK_1280,11.0,3857.0,128,BUS,Regőczi István tér,Széll Kálmán tér M
+BKK_1600,25.0,10341.0,160,BUS,Békásmegyer H,Óbudai rendelőintézet
+BKK_1490,11.0,3202.0,149,BUS,Fenyves utca,Széll Kálmán tér M
+BKK_0390,10.0,3759.0,39,BUS,Goldmark Károly utca,Batthyány tér M H
+BKK_0350,30.0,11721.0,35,BUS,"Csepel, Csillagtelep",Szentlőrinci úti ltp.
+BKK_1820,26.0,10913.0,182,BUS,Alacskai úti lakótelep,Kőbánya-Kispest M
+BKK_0450,23.0,10314.0,45,BUS,"Cinkota, Lassú utca",Örs vezér tere M H
+BKK_2440,13.0,6631.0,244,BUS,Centenáriumi lakótelep,Örs vezér tere M H
+BKK_0440,16.0,7943.0,44,BUS,Centenáriumi lakótelep,Örs vezér tere M H
+BKK_2250,14.0,10376.0,225,BUS,"R.palota, Székely Elek út",Mexikói út M
+BKK_2765,25.0,13826.0,276E,BUS,"R.csaba-Újtelep, Naplás út",Örs vezér tere M H
+BKK_1650,5.0,1655.0,165,BUS,Remetehegyi út,Kolosy tér
+BKK_1550,17.0,5067.0,155,BUS,Fácános tér,Széll Kálmán tér M
+BKK_1370,16.0,6156.0,137,BUS,Erdőalja út-Máramaros út,Szentlélek tér H
+BKK_2845,18.0,12612.0,284E,BUS,"Pestszentimre, Benjámin u.",Kőbánya-Kispest M
+BKK_2370,14.0,4351.0,237,BUS,Jablonka út,Szentlélek tér H
+BKK_0650,10.0,4460.0,65,BUS,Szépvölgyi dűlő,Kolosy tér
+BKK_1085,32.0,19589.0,108E,BUS,"Újpalota, Nyírpalota út",Gazdagréti tér
+BKK_0090,32.0,15331.0,9,BUS,Kőbánya alsó vasútáll.,"Óbuda, Bogdáni út"
+BKK_0975,19.0,16568.0,97E,BUS,Rákoskert sugárút,Örs vezér tere M H
+BKK_0320,19.0,9442.0,32,BUS,Göncz Árpád városkp. M,Örs vezér tere M H
+BKK_1610,31.0,15775.0,161,BUS,Rákoscsaba,Örs vezér tere M H
+BKK_1615,17.0,15556.0,161E,BUS,Rákoscsaba,Örs vezér tere M H
+BKK_MP53,8.0,6146.0,M3,BUS,Lehel tér M,Nagyvárad tér M
+BKK_0221,21.0,9984.0,22A,BUS,"Budakeszi, Dózsa Gy. tér",Széll Kálmán tér M
+BKK_2720,13.0,14481.0,272,BUS,"Törökbálint, Márta utca",Kelenföld vasútállomás M
+BKK_1885,22.0,19050.0,188E,BUS,Honfoglalás sétány,Kelenföld vasútállomás M
+BKK_2025,20.0,15554.0,202E,BUS,Kucorgó tér,Kőbánya-Kispest M
+BKK_3024,19.0,9400.0,2M,TRAM,Jászai Mari tér,Keleti pályaudvar M
+BKK_0130,32.0,13894.0,13,BUS,"Diósd, Búzavirág u.",Budatétény vá. (Campona)
+BKK_1685,21.0,14360.0,168E,BUS,"Rákoshegy, Ferihegyi út",Örs vezér tere M H
+BKK_2220,22.0,10690.0,222,BUS,"Budakeszi, Honfoglalás sét.",Széll Kálmán tér M
+BKK_1720,19.0,15851.0,172,BUS,Kelenföld vasútállomás M,Törökbálint vasútállomás
+BKK_2175,19.0,13105.0,217E,BUS,Szarvas csárda tér,Blaha Lujza tér M
+BKK_0855,9.0,8001.0,85E,BUS,Kőbánya-Kispest M,Örs vezér tere M H
+BKK_0075,8.0,8478.0,7E,BUS,"Újpalota, Nyírpalota út",Blaha Lujza tér M
+BKK_0300,38.0,16746.0,30,BUS,Keleti pályaudvar M,"Káp.megyer, Mogyoródi-p."
+BKK_1730,18.0,15493.0,173,BUS,Kelenföld vasútállomás M,Törökbálint vasútállomás
+BKK_2870,30.0,12853.0,287,BUS,Budatétény vá. (Campona),Budaörsi lakótelep
+BKK_0381,19.0,9862.0,38A,BUS,"Lakihegy, Cseresznyés utca","Csepel, Szent Imre tér"
+BKK_0945,14.0,15071.0,94E,BUS,"Gyál, Vecsési út",Határ út M
+BKK_0895,24.0,16922.0,89E,BUS,"Gyál, Bem József utca",Határ út M
+BKK_0550,42.0,20699.0,55,BUS,"Gyál, Vecsési út",Boráros tér H
+BKK_2790,10.0,6526.0,279,BUS,Massányi úti lakópark,Auchan Sziget áruház
+BKK_0845,24.0,15541.0,84E,BUS,"Gyál, Deák Ferenc utca",Határ út M
+BKK_1695,26.0,20426.0,169E,BUS,"Pécel, Kun József utca",Örs vezér tere M H
+BKK_0850,18.0,8075.0,85,BUS,Kőbánya-Kispest M,Örs vezér tere M H
+BKK_2130,33.0,14647.0,213,BUS,Donát-hegy,Móricz Zs. körtér M
+BKK_2544,11.0,16678.0,254M,BUS,Alacskai úti lakótelep,Boráros tér H
+BKK_2140,31.0,14201.0,214,BUS,"Baross G.-telep, Ispiláng u.",Móricz Zs. körtér M
+BKK_1012,15.0,10875.0,101B,BUS,Baross Gábor-telep,Kelenföld vasútállomás M
+BKK_0301,30.0,13133.0,30A,BUS,Keleti pályaudvar M,"Megyer, Szondi utca"
+BKK_1980,49.0,20821.0,198,BUS,"R.csaba-Újtelep, Tóalmás u.",Dél-pesti autóbuszgarázs
+BKK_0310,15.0,8351.0,31,BUS,"Árpádföld, Bekecs utca",Örs vezér tere M H
+BKK_1105,15.0,9344.0,110E,BUS,Bosnyák tér,Apor Vilmos tér
+BKK_1560,10.0,3029.0,156,BUS,Dániel út,Széll Kálmán tér M
+BKK_0050,46.0,19248.0,5,BUS,"Rákospalota, Kossuth utca",Pasaréti tér
+BKK_1150,29.0,11406.0,115,BUS,Göncz Árpád városkp. M,Boráros tér H
+BKK_0290,27.0,10389.0,29,BUS,Hűvösvölgy,Szentlélek tér H
+BKK_1180,18.0,6339.0,118,BUS,Óbudai autóbuszgarázs,Szentlélek tér H
+BKK_1870,13.0,7664.0,187,BUS,Kamaraerdő,Kelenföld vasútállomás M
+BKK_1100,30.0,12421.0,110,BUS,Bosnyák tér,Thomán István utca
+BKK_1050,32.0,14717.0,105,BUS,Gyöngyösi utca M,Apor Vilmos tér
+BKK_0990,31.0,12958.0,99,BUS,Mátyás király tér,Blaha Lujza tér M
+BKK_1220,13.0,6647.0,122,BUS,"Káp.megyer, Mogyoródi-p.",Újpest-városkapu M
+BKK_1300,27.0,12105.0,130,BUS,"Újpalota, Sárfű utca",Puskás Ferenc Stadion M
+BKK_0150,28.0,12422.0,15,BUS,Gyöngyösi utca M,Boráros tér H
+BKK_0870,18.0,8879.0,87,BUS,Mechanikai Művek,Kelenföld vasútállomás M
+BKK_1580,14.0,6484.0,158,BUS,Savoya Park,Jégmadár utca
+BKK_4750,19.0,7777.0,75,TROLLEYBUS,Jászai Mari tér,Puskás Ferenc Stadion M
+BKK_4800,21.0,8079.0,80,TROLLEYBUS,Keleti pályaudvar M,Örs vezér tere M H
+BKK_4820,19.0,7773.0,82,TROLLEYBUS,Uzsoki Utcai Kórház,Örs vezér tere M H
+BKK_4760,14.0,4774.0,76,TROLLEYBUS,Jászai Mari tér,Keleti pályaudvar M
+BKK_1780,30.0,14061.0,178,BUS,Gyöngyösi utca M,Naphegy tér
+BKK_4780,11.0,3714.0,78,TROLLEYBUS,Kossuth Lajos tér M,Keleti pu. M (Garay utca)
+BKK_4794,17.0,6817.0,79M,TROLLEYBUS,Dagály utcai lakótelep,Keleti pályaudvar M
+BKK_4740,19.0,8049.0,74,TROLLEYBUS,Károly körút (Astoria M),Csáktornya park
+BKK_4700,14.0,4724.0,70,TROLLEYBUS,Kossuth Lajos tér M,"Erzsébet k.né útja, alulj."
+BKK_4770,18.0,7091.0,77,TROLLEYBUS,Öv utca / Egressy út,Puskás Ferenc Stadion M
+BKK_4830,9.0,3160.0,83,TROLLEYBUS,Fővám tér M,Orczy tér
+BKK_0960,29.0,12914.0,96,BUS,"Újpest, Fóti út","Újpalota, Szentmihályi út"
+BKK_4724,26.0,10051.0,72M,TROLLEYBUS,Zugló vasútállomás,Orczy tér
+BKK_2960,41.0,22820.0,296,BUS,"B.megyer, Újmegyeri tér","Újpalota, Szentmihályi út"
+BKK_0930,26.0,11799.0,93,BUS,Szemeretelep vasútállomás,Kőbánya-Kispest M
+BKK_1660,37.0,18550.0,166,BUS,Ferihegy vasútállomás,Gubacsi út / Határ út
+BKK_1935,9.0,10715.0,193E,BUS,Market Central Ferihegy,Kőbánya-Kispest M
+BKK_1821,15.0,5880.0,182A,BUS,Gilice tér (Varjú utca),Kőbánya-Kispest M
+BKK_1950,34.0,16406.0,195,BUS,"Rákoskeresztúr, városkp.",Puskás Ferenc Stadion M
+BKK_1350,22.0,14053.0,135,BUS,"Soroksár, IKEA áruház",Millenniumtelep H
+BKK_0931,24.0,9683.0,93A,BUS,Fedezék utca,Kőbánya-Kispest M
+BKK_2005,12.0,16380.0,200E,BUS,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+BKK_1200,17.0,7182.0,120,BUS,Újpest-központ M,Göncz Árpád városkp. M
+BKK_2200,12.0,4565.0,220,BUS,"Újpest, Erdősor út",Újpest-központ M
+BKK_1240,30.0,12359.0,124,BUS,"Rákospalota, Bogáncs utca",Bosnyák tér
+BKK_0230,19.0,9011.0,23,BUS,Boráros tér H,"P.erzsébet, Ady Endre tér"
+BKK_0250,22.0,9869.0,25,BUS,Újpest-központ M,Mexikói út M
+BKK_1040,27.0,16196.0,104,BUS,"Dunakeszi, Auchan áruház","Rákospalota, Kossuth utca"
+BKK_1250,29.0,11024.0,125,BUS,"Rákospalota, MEDIMPEX",Bosnyák tér
+BKK_2040,27.0,17834.0,204,BUS,"B.megyer, Újmegyeri tér","Rákospalota, Kossuth utca"
+BKK_1700,16.0,6736.0,170,BUS,"Rákospalota, Csömöri-p.",Újpest-központ M
+BKK_2810,31.0,13985.0,281,BUS,Aszódi utca,"József A. ltp., Távíró utca"
+BKK_1590,12.0,4683.0,159,BUS,Szent László utcai ltp.,"Csepel, Szent Imre tér"
+BKK_2240,36.0,23144.0,224,BUS,"Újpalota, Szentmihályi út","Újpalota, Szentmihályi út"
+BKK_1470,12.0,5079.0,147,BUS,"Megyer, Julianus barát u.",Újpest-központ M
+BKK_1260,12.0,7810.0,126,BUS,"Dunakeszi, Auchan áruház","Káp.megyer, Szilas-patak"
+BKK_0880,56.0,29679.0,88,BUS,Budatétény vá. (Campona),Kelenföld vasútállomás M
+BKK_2400,17.0,10840.0,240,BUS,Móricz Zs. körtér M,Budaörsi lakótelep
+BKK_2180,24.0,12160.0,218,BUS,"Solymár, Auchan áruház",Szentlélek tér H
+BKK_2825,19.0,11828.0,282E,BUS,Alacskai úti lakótelep,Kőbánya-Kispest M
+BKK_1310,16.0,8011.0,131,BUS,"Kisszentmihály, Baross u.",Örs vezér tere M H
+BKK_2120,27.0,11750.0,212,BUS,Svábhegy,Boráros tér H
+BKK_1401,24.0,12086.0,140A,BUS,Budaörsi lakótelep,Széll Kálmán tér M
+BKK_0210,22.0,9205.0,21,BUS,Széll Kálmán tér M,"Csillebérc, KFKI"
+BKK_1400,41.0,23159.0,140,BUS,"Törökbálint, bevásárlóközp.",Széll Kálmán tér M
+BKK_0405,9.0,8294.0,40E,BUS,Budaörsi lakótelep,Kelenföld vasútállomás M
+BKK_8901,4.0,5732.0,A,BUS,Stadion autóbusz-állomás,Expó tér
+BKK_8905,3.0,7700.0,E,BUS,Vág utca,Expó tér
+BKK_0400,15.0,7602.0,40,BUS,Budaörsi lakótelep,Kelenföld vasútállomás M
+BKK_8902,1.0,6267.0,B,BUS,Deák Ferenc tér M,Expó tér
+BKK_4741,8.0,3330.0,74A,TROLLEYBUS,Mexikói út M,Csáktornya park
+BKK_8903,2.0,22843.0,C,BUS,Airport - Monor,"Budapest, Expó tér"
+BKK_1190,10.0,3710.0,119,BUS,Zodony utca,Gubacsi út / Határ út
+BKK_H9,12.0,10727.0,H9,SUBURBAN_RAILWAY,Csömör,Örs vezér tere
+BKK_1850,14.0,5334.0,185,BUS,Újhegy,Kőbánya alsó vasútáll.
+BKK_1170,11.0,5058.0,117,BUS,Mélytó utca,Kőbánya alsó vasútáll.
+BKK_2660,20.0,8827.0,266,BUS,"Ganztelep, Mednyánszky u.",Pestszentimre vasútáll.
+BKK_1940,18.0,8103.0,194,BUS,Gloriett lakótelep,Határ út M
+BKK_1990,12.0,5317.0,199,BUS,Áchim András utca,Határ út M
+BKK_1942,21.0,8082.0,194B,BUS,Gloriett lakótelep,Határ út M
+BKK_1520,31.0,12927.0,152,BUS,Hollandi út,Szent Imre tér
+BKK_3170,36.0,14801.0,17,TRAM,Savoya Park,Bécsi út / Vörösvári út
+BKK_1790,22.0,10719.0,179,BUS,Közvágóhíd H,"Csepel, Szent Imre tér"
+BKK_1961,15.0,7288.0,196A,BUS,"Újpalota, Szentmihályi út",Újpest-városkapu M
+BKK_1960,21.0,10346.0,196,BUS,"Újpalota, Szentmihályi út","Újpest, Fóti út"
+BKK_1060,15.0,7448.0,106,BUS,Római úti lakótelep,Göncz Árpád városkp. M
+BKK_4734,13.0,5253.0,73M,TROLLEYBUS,Deák Ferenc tér M,Keleti pályaudvar M
+BKK_3520,16.0,6977.0,52,TRAM,"P.erzsébet, Pacsirtatelep",Határ út M
+BKK_2690,8.0,2732.0,269,BUS,Színes utca,Rákoscsaba vasútállomás
+BKK_3510,20.0,8093.0,51,TRAM,Nagysándor József utca,Mester utca/Ferenc körút
+BKK_1230,23.0,14191.0,123,BUS,"Soroksár, IKEA áruház",Határ út M
+BKK_3370,24.0,11045.0,37,TRAM,Új köztemető (Kozma u.),Blaha Lujza tér M
+BKK_8904,5.0,9271.0,D,BUS,Vigadó tér,Expó tér
+BKK_1020,12.0,4418.0,102,BUS,Szendrő utca,Széll Kálmán tér M
+BKK_1830,13.0,5759.0,183,BUS,Szemeretelep vasútállomás,Szarvas csárda tér
+BKK_1030,5.0,2289.0,103,BUS,Hengermalom út,Kelenföld vasútállomás M
+BKK_2300,32.0,15778.0,230,BUS,Keleti pályaudvar M,"Káp.megyer, Aquaworld"
+BKK_0580,34.0,13960.0,58,BUS,Móricz Zs. körtér M,Jégmadár utca
+BKK_1110,32.0,11078.0,111,BUS,"Óbuda, Bogdáni út",Batthyány tér M H
+BKK_2430,14.0,5857.0,243,BUS,Békásmegyer H,Pince köz
+BKK_3060,18.0,8385.0,6,TRAM,Móricz Zs. körtér M,Széll Kálmán tér M
+BKK_3040,18.0,8515.0,4,TRAM,Újbuda-központ M,Széll Kálmán tér M
+BKK_0110,16.0,5923.0,11,BUS,Nagybányai út,Batthyány tér M H
+BKK_1015,13.0,10618.0,101E,BUS,Budatétény vá. (Campona),Kelenföld vasútállomás M
+BKK_2510,22.0,10390.0,251,BUS,Savoya Park,Kelenföld vasútállomás M
+BKK_2511,19.0,8544.0,251A,BUS,Városház tér,Kelenföld vasútállomás M
+BKK_0260,13.0,6825.0,26,BUS,Göncz Árpád városkp. M,Nyugati pályaudvar M
+BKK_0910,20.0,8176.0,91,BUS,Széll Kálmán tér M,Nyugati pályaudvar M
+BKK_0460,51.0,23723.0,46,BUS,Helikopter lakópark,"Újpalota, Nyírpalota út"
+BKK_3240,12.0,5624.0,24,TRAM,Keleti pályaudvar M,Közvágóhíd H
+BKK_3280,24.0,10157.0,28,TRAM,Izraelita temető,Blaha Lujza tér M
+BKK_3690,14.0,6558.0,69,TRAM,"Újpalota, Erdőkerülő utca",Mexikói út M
+BKK_3620,33.0,13800.0,62,TRAM,"Rákospalota, MÁV-telep",Blaha Lujza tér M
+BKK_3511,7.0,2253.0,51A,TRAM,Ferencváros vasútállomás,Mester utca/Ferenc körút
+BKK_3420,6.0,3437.0,42,TRAM,"Kispest, Tulipán utca",Határ út M
+BKK_0100,10.0,5169.0,10,BUS,Örs vezér tere M+H,Expó tér
+BKK_1290,12.0,5225.0,129,BUS,Szent Ferenc Kórház,Széll Kálmán tér M
+BKK_2910,21.0,8270.0,291,BUS,"Zugliget, Libegő",Nyugati pályaudvar M
+BKK_2380,26.0,16021.0,238,BUS,Szigetszentmiklós,"Csepel, Szent Imre tér"
+BKK_2600,16.0,6263.0,260,BUS,Harsánylejtő,Óbudai rendelőintézet
+BKK_0651,7.0,3074.0,65A,BUS,Fenyőgyöngye,Kolosy tér
+BKK_3621,22.0,9066.0,62A,TRAM,"Rákospalota, MÁV-telep",Kőbánya alsó vasútáll.
+BKK_0220,23.0,11563.0,22,BUS,"Budakeszi, Tesco áruház",Széll Kálmán tér M
+BKK_0630,16.0,8934.0,63,BUS,"Nagykovácsi, Tisza I. tér",Hűvösvölgy
+BKK_0641,17.0,7947.0,64A,BUS,"Solymár, Templom tér",Hűvösvölgy
+BKK_1640,25.0,12025.0,164,BUS,"Solymár, PEMÜ",Hűvösvölgy
+BKK_0570,17.0,7242.0,57,BUS,Hűvösvölgy,Remetekertváros
+BKK_0640,22.0,11895.0,64,BUS,"Solymár, Auchan áruház",Hűvösvölgy
+BKK_1571,14.0,5345.0,157A,BUS,"Budaliget, Géza f. útja",Hűvösvölgy
+BKK_2640,18.0,8480.0,264,BUS,"Solymár, PEMÜ",Hűvösvölgy
+BKK_2570,17.0,7184.0,257,BUS,Hűvösvölgy,Pesthidegkút
+BKK_1570,15.0,7295.0,157,BUS,"Solymár, Kerekhegy",Hűvösvölgy
+BKK_0235,6.0,6258.0,23E,BUS,Boráros tér H,Pesterzsébeti lakótelep
+BKK_3470,20.0,8893.0,47,TRAM,Városház tér,Deák Ferenc tér M
+BKK_H5,17.0,20829.0,H5,SUBURBAN_RAILWAY,Szentendre,Batthyány tér
+BKK_3410,39.0,18510.0,41,TRAM,Kamaraerdei Ifj. Park,Bécsi út / Vörösvári út
+BKK_1970,11.0,5130.0,197,BUS,Rákoskert vasútállomás,Sáránd utca
+BKK_1210,10.0,4014.0,121,BUS,Újpest-városkapu M,R.palota-Újpest vasútáll.
+BKK_2190,10.0,3387.0,219,BUS,Aranyhegy,Csillaghegy H
+BKK_1131,14.0,6007.0,113A,BUS,Angeli u. / Nagytétényi út,Budatétény vá. (Campona)
+BKK_2780,16.0,12036.0,278,BUS,Szigetszentmiklós,"Csepel, Szent Imre tér"
+BKK_0340,27.0,13312.0,34,BUS,"B.megyer, Újmegyeri tér",Göncz Árpád városkp. M
+BKK_VP601,4.0,4674.0,60A,BUS,Szent János Kórház,Pethényi út
+BKK_3281,24.0,10157.0,28A,TRAM,Új köztemető (Kozma u.),Blaha Lujza tér M
+BKK_0380,35.0,20842.0,38,BUS,Szigetszentmiklós,"Csepel, Szent Imre tér"
+BKK_2970,6.0,2028.0,297,BUS,Nyeremény utca,R.csaba-Újt. vasútállomás
+BKK_0660,23.0,13706.0,66,BUS,"Soroksár, közp. raktárak",Határ út M
+BKK_3371,13.0,5981.0,37A,TRAM,Sörgyár,Blaha Lujza tér M
+BKK_1130,23.0,9926.0,113,BUS,"Diósd, Sashegyi út",Budatétény vá. (Campona)
+BKK_3561,22.0,11270.0,56A,TRAM,Móricz Zs. körtér M,Hűvösvölgy
+BKK_0662,26.0,15295.0,66B,BUS,"Soroksár, BILK",Határ út M
+BKK_1880,32.0,18436.0,188,BUS,Honfoglalás sétány,Kelenföld vasútállomás M
+BKK_2945,21.0,15177.0,294E,BUS,"Gyál, Vecsési út",Határ út M
+BKK_3591,11.0,4239.0,59A,TRAM,Márton Áron tér,Széll Kálmán tér M
+BKK_2961,23.0,9047.0,296A,BUS,"Káp.megyer, Szilas-patak","Újpalota, Szentmihályi út"
+BKK_1041,26.0,14041.0,104A,BUS,"Székesdűlő, ipartelep","Rákospalota, Kossuth utca"
+BKK_0131,16.0,6963.0,13A,BUS,"Diósd, Sashegyi út",Budatétény vá. (Campona)
+BKK_1402,17.0,11045.0,140B,BUS,Budaörsi lakótelep,"Törökbálint, bevásárlóközp."
+BKK_2700,19.0,7954.0,270,BUS,"Rákospalota, Csömöri-p.",Újpest-központ M
+BKK_9560,98.0,45936.0,956,BUS,"Pécel, Kun József utca",Pesthidegkút-Hűvösvölgy
+BKK_9960,57.0,24168.0,996,BUS,Cinkotai autóbuszgarázs,Újpest-központ M
+BKK_9080,74.0,34130.0,908,BUS,Cinkotai autóbuszgarázs,Móricz Zs. körtér M
+BKK_9480,34.0,17395.0,948,BUS,"Csepel, Hollandi út",Dél-pesti autóbuszgarázs
+BKK_9160,16.0,6874.0,916,BUS,Uránia,Széll Kálmán tér M
+BKK_9140,65.0,29755.0,914,BUS,"Káp.megyer, Mogyoródi-p.",Dél-pesti autóbuszgarázs
+BKK_9220,23.0,9999.0,922,BUS,"Budakeszi, Dózsa Gy. tér",Széll Kálmán tér M
+BKK_9600,44.0,19612.0,960,BUS,"B.megyer, Újmegyeri tér",Móricz Zs. körtér M
+BKK_9900,98.0,44522.0,990,BUS,Rákoskert,Normafa
+BKK_9500,75.0,37397.0,950,BUS,"Rákospalota, Kossuth utca",Pestszentimre vasútáll.
+BKK_9791,32.0,15179.0,979A,BUS,"Csepel, Csillagtelep",Deák Ferenc tér M
+BKK_9070,39.0,17279.0,907,BUS,Örs vezér tere M H,Kelenföld vasútállomás M
+BKK_9230,65.0,32052.0,923,BUS,Békásmegyer H,Dél-pesti autóbuszgarázs
+BKK_9961,48.0,20006.0,996A,BUS,Cinkotai autóbuszgarázs,Újpest-központ M
+BKK_9310,70.0,30488.0,931,BUS,"Árpádföld, Dezsőfia utca",Nyugati pályaudvar M
+BKK_9341,28.0,13902.0,934,BUS,Békásmegyer H,Nyugati pályaudvar M
+BKK_9980,22.0,8728.0,998,BUS,"Rákoskeresztúr, városközp.","Rákoskeresztúr, városközp."
+BKK_9990,23.0,9574.0,999,BUS,Dél-pesti autóbuszgarázs,Határ út M
+BKK_9501,41.0,21943.0,950A,BUS,"Rákospalota, Kossuth utca",Pestszentimre vasútáll.
+BKK_9400,41.0,18627.0,940,BUS,Budaörsi lakótelep,Móricz Zs. körtér M
+BKK_9071,11.0,4939.0,907A,BUS,Astoria M,Bosnyák tér
+BKK_9010,39.0,21169.0,901,BUS,Bécsi út / Vörösvári út,Kelenföld vasútállomás M
+BKK_9311,15.0,7385.0,931A,BUS,Deák Ferenc tér M,Örs vezér tere M H
+BKK_9640,22.0,10102.0,964,BUS,"Solymár, PEMÜ",Hűvösvölgy
+BKK_9800,28.0,12542.0,980,BUS,Dél-pesti autóbuszgarázs,"Rákoskeresztúr, városkp."
+BKK_9180,44.0,23602.0,918,BUS,Óbudai autóbuszgarázs,Kelenföld vasútállomás M
+BKK_9730,65.0,30076.0,973,BUS,"Újpalota, Szentmihályi út","Nagytétény, ipartelep"
+BKK_9660,25.0,12626.0,966,BUS,Millenniumtelep H,Határ út M
+BKK_9731,24.0,11253.0,973A,BUS,"Rákospalota, MÁV-telep",Városház tér
+BKK_9410,57.0,23062.0,941,BUS,Budatétény vá. (Campona),Móricz Zs. körtér M
+BKK_9300,9.0,4117.0,930,BUS,"Megyer, Szondi utca",Újpest-központ M
+BKK_9090,36.0,16637.0,909,BUS,"Kispest, Kossuth tér",Deák Ferenc tér M
+BKK_9680,28.0,13278.0,968,BUS,Cinkotai autóbuszgarázs,"Kispest, Kossuth tér"
+BKK_9720,48.0,25472.0,972,BUS,"Törökbálint, Nyár utca",Móricz Zs. körtér M
+BKK_9940,26.0,13197.0,994,BUS,"Gyál, Vecsési út",Dél-pesti autóbuszgarázs
+BKK_9790,57.0,26668.0,979,BUS,"Csepel, Csillagtelep","Újpalota, Nyírpalota út"
+BKK_9722,50.0,23972.0,972B,BUS,Móricz Zsigmond körtér M,"Törökbálint, Nyár utca"
+BKK_2615,6.0,10042.0,261E,BUS,"Rákoskeresztúr, városkp.",Örs vezér tere M H
+BKK_0944,19.0,21628.0,94M,BUS,"Gyál, Vecsési út",Határ út M
+BKK_2620,39.0,17944.0,262,BUS,"Rákoskert, Erzsébet körút",Kőbánya alsó vasútáll.
+BKK_0844,28.0,21949.0,84M,BUS,"Gyál, Deák Ferenc utca",Nagyvárad tér M
+BKK_2944,27.0,21742.0,294M,BUS,"Gyál, Vecsési út",Nagyvárad tér M
+BKK_1461,6.0,3548.0,146A,BUS,Cinkotai autóbuszgarázs,"Rákoskeresztúr, városkp."
+BKK_2802,10.0,5360.0,280B,BUS,Bányató út,"Lakihegy, Cseresznyés utca"
+BKK_VP24,11.0,5607.0,24,BUS,Keleti pályaudvar M,Közvágóhíd H
+BKK_3480,17.0,8031.0,48,TRAM,Savoya Park,Deák Ferenc tér M
+BKK_2410,12.0,4840.0,241,BUS,Lomnici utca,Savoya Park
+BKK_MP533,13.0,11300.0,M3,BUS,Kőbánya-Kispest M,Lehel tér M
+BKK_3027,12.0,6063.0,N2,TRAM,Nosztalgiajárat,Nosztalgiajárat

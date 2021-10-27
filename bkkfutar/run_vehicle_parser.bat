@@ -1,2 +1,0 @@
-cd C:\Users\krist\Documents\Python Scripts\python_practise\python_practise\bkkfutar
-C:\Users\krist\AppData\Local\Programs\Python\Python38\python.exe "C:\Users\krist\Documents\Python Scripts\python_practise\python_practise\bkkfutar\collect_vehicle_data.py"

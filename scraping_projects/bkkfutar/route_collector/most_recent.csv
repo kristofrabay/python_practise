@@ -1,0 +1,30 @@
+id,tripId,num_of_stops,total_distance,shortName,type,From,To
+BKK_9800,BKK_C373705,28,11938.0,980,BUS,Dél-pesti autóbuszgarázs,"Rákoskeresztúr, városkp."
+BKK_9560,BKK_C3476087,98,45936.0,956,BUS,"Pécel, Kun József utca",Pesthidegkút-Hűvösvölgy
+BKK_9140,BKK_C367201252,66,29907.0,914,BUS,"Káp.megyer, Mogyoródi-p.",Dél-pesti autóbuszgarázs
+BKK_9501,BKK_C36721137,66,33719.0,950A,BUS,"Rákospalota, Kossuth utca",Pestszentimre vasútáll.
+BKK_9900,BKK_C3710612,72,31836.0,990,BUS,Rákoskert,Normafa
+BKK_9080,BKK_C3438245,72,33748.0,908,BUS,Cinkotai autóbuszgarázs,Móricz Zs. körtér M
+BKK_9300,BKK_C3470724,9,4117.0,930,BUS,"Megyer, Szondi utca",Újpest-központ M
+BKK_9010,BKK_C3438634,39,21169.0,901,BUS,Bécsi út / Vörösvári út,Kelenföld vasútállomás M
+BKK_9961,BKK_C3470726,43,20006.0,996A,BUS,Cinkotai autóbuszgarázs,Újpest-központ M
+BKK_9090,BKK_C3560913,36,16637.0,909,BUS,"Kispest, Kossuth tér",Deák Ferenc tér M
+BKK_9500,BKK_C36721109,63,31460.0,950,BUS,"Rákospalota, Kossuth utca",Pestszentimre vasútáll.
+BKK_9070,BKK_C345554,39,17279.0,907,BUS,Örs vezér tere M H,Kelenföld vasútállomás M
+BKK_9960,BKK_C347079,57,24168.0,996,BUS,Cinkotai autóbuszgarázs,Újpest-központ M
+BKK_2005,BKK_C3205212,12,14397.0,200E,BUS,Cargo City-Liszt F. Airport 2,Kőbánya-Kispest M
+BKK_9730,BKK_C3306017,65,30076.0,973,BUS,"Újpalota, Szentmihályi út","Nagytétény, ipartelep"
+BKK_9980,BKK_C348978,6,3085.0,998,BUS,"Rákoskeresztúr, városközp.","Rákoskeresztúr, városközp."
+BKK_9660,BKK_C373862,25,12626.0,966,BUS,Millenniumtelep H,Határ út M
+BKK_9310,BKK_C3485419,70,30488.0,931,BUS,"Árpádföld, Dezsőfia utca",Nyugati pályaudvar M
+BKK_9480,BKK_C314789,13,5759.0,948,BUS,"Csepel, Hollandi út",Dél-pesti autóbuszgarázs
+BKK_9791,BKK_C3771555,32,15179.0,979A,BUS,"Csepel, Csillagtelep",Deák Ferenc tér M
+BKK_9341,BKK_C3556581,27,13902.0,934,BUS,Békásmegyer H,Nyugati pályaudvar M
+BKK_9600,BKK_C3570751,45,19714.0,960,BUS,"B.megyer, Újmegyeri tér",Móricz Zs. körtér M
+BKK_9731,BKK_C33060764,24,11253.0,973A,BUS,"Rákospalota, MÁV-telep",Városház tér
+BKK_9400,BKK_C2720213,21,10077.0,940,BUS,Budaörsi lakótelep,Móricz Zs. körtér M
+BKK_9410,BKK_C377237,57,23062.0,941,BUS,Budatétény vá. (Campona),Móricz Zs. körtér M
+BKK_9311,BKK_C3485442,15,7385.0,931A,BUS,Deák Ferenc tér M,Örs vezér tere M H
+BKK_9720,BKK_C272029,34,16077.0,972,BUS,"Törökbálint, Nyár utca",Móricz Zs. körtér M
+BKK_9940,BKK_C313154,18,9142.0,994,BUS,"Gyál, Vecsési út",Dél-pesti autóbuszgarázs
+BKK_9990,BKK_C373715,23,9574.0,999,BUS,Dél-pesti autóbuszgarázs,Határ út M
