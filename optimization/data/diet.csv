@@ -1,0 +1,11 @@
+index,name,max_serv,size,energy,protein,calcium,magnesium,vitaminc,iron,price
+1,Oatmeal,4,28,110,4,2,26,0,6,11
+2,Chicken,3,100,205,32,12,1,2,1,16
+3,Eggs,2,2,160,13,54,10,0,1,2
+4,Whole Milk,8,237,160,8,285,0,0,11,8
+5,Cherry pie,2,170,420,4,22,9,1,2,25
+6,Pork with beans,2,206,260,14,80,31,1,1,4
+7,Yogurt,3,3,58,10,110,11,0,0,10
+8,Rice,5,30,500,10,28,2501,9,9,10
+9,Meat,6,143,143,26,6,29,0,1,40
+10,Potato,5,54,323,2,12,28,19,1,3
