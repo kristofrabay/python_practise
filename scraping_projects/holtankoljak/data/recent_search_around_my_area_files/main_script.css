@@ -1,0 +1,59 @@
+﻿@charset "utf-8";
+.ads_show_ad_title::before {
+  text-align: center;
+  font-size: 10px;
+  color: #919191;
+  content: 'Hirdetés';
+  display: block;
+  margin-bottom: 5px;
+  line-height: initial;
+}
+
+.ads-sticky-bottom-main-container {
+  z-index: 999999999;
+  position: fixed;
+  margin: auto;
+  bottom: 0px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  overflow: hidden;
+}
+.ads-sticky-bottom-wrapper {
+  z-index: 999999999;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s linear;
+  display: flex;
+  position: fixed;
+  bottom: 90px;
+  left: 0px;
+  right: 0px;
+  width: 780px;
+  margin: auto;
+  justify-content: space-between;
+}
+.ads-sticky-bottom-message,
+.ads-sticky-bottom-close {
+  padding: 5px;
+  background-color: #00adee;
+  color: white;
+}
+.ads-sticky-bottom-message {
+  font-family: Helvetica, Calibri, sans-serif;
+  border-radius: 5px 0px 5px 0px;
+  font-size: 10px;
+  font-weight: bold;
+}
+.ads-sticky-bottom-close {
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 10px;
+}
+#strossle-reader-view .strossle-reader-content {
+max-width:100% !important; top:0 !important; bottom:0 !important; background: rgba(0, 0, 0, 0.8) !important;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#000000, endColorstr=#000000) !important;
+z-index:1000002 !important;
+}
+.strossle-overlay { background-color:transparent !important; z-index:1000002 !important; }
+.strossle-iframe-wrapper iframe { margin:0 !important; }
+.strossle-close-overlay { z-index:1000003 !important; }
