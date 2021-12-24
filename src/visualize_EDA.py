@@ -80,7 +80,7 @@ class vEDA:
         _data = self.data.copy()
 
         _data[y] = _data[y].astype(str)    
-        order = _data.loc[:,[x, y]].groupby([y]).median().sort_index()
+        order = _data.loc[:,[x, y]].groupby([y]).median().sort_values(x, ascending = False)
 
         plt.figure(figsize = figsize)
         sns.boxplot(data = _data, x = x, y = y, color = 'blue', fliersize = 2, **self.BOXPLOT_PROPS, order = order.index)
