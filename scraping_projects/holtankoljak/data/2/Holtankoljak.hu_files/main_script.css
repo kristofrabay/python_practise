@@ -1,0 +1,235 @@
+﻿@charset "utf-8";
+.ads_show_ad_title::before {
+  text-align: center;
+  font-size: 10px;
+  color: #919191;
+  content: 'Hirdetés';
+  display: block;
+  margin-bottom: 5px;
+  line-height: initial;
+}
+
+.ads-sticky-bottom-main-container {
+  z-index: 999999999;
+  position: fixed;
+  margin: auto;
+  bottom: 0px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  overflow: hidden;
+}
+.ads-sticky-bottom-wrapper {
+  z-index: 999999999;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s linear;
+  display: flex;
+  position: fixed;
+  bottom: 90px;
+  left: 0px;
+  right: 0px;
+  width: 780px;
+  margin: auto;
+  justify-content: space-between;
+}
+.ads-sticky-bottom-message,
+.ads-sticky-bottom-close {
+  padding: 5px;
+  background-color: #00adee;
+  color: white;
+}
+.ads-sticky-bottom-message {
+  font-family: Helvetica, Calibri, sans-serif;
+  border-radius: 5px 0px 5px 0px;
+  font-size: 10px;
+  font-weight: bold;
+}
+.ads-sticky-bottom-close {
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 10px;
+}
+#strossle-reader-view .strossle-reader-content {
+  max-width: 100% !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  background: rgba(0, 0, 0, 0.8) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#000000, endColorstr=#000000) !important;
+  z-index: 1000002 !important;
+}
+.strossle-overlay {
+  background-color: transparent !important;
+  z-index: 1000002 !important;
+}
+.strossle-iframe-wrapper iframe {
+  margin: 0 !important;
+}
+.strossle-close-overlay {
+  z-index: 1000003 !important;
+}
+
+.ads-outer-container {
+  position: relative;
+}
+
+.ads-container-562 {
+  background: #f5f6f8;
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.ads-middle-div-three {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  transform: scale(0.5);
+  display: none;
+}
+
+.ads-innerbox {
+  position: relative;
+  text-align: center;
+  background: #f5f6f8;
+}
+
+.ads-sticky-ad {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0;
+}
+
+@supports (position: -webkit-sticky) or (position: sticky) {
+  .ads-sticky-ad {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: unset;
+    transform: unset;
+    margin: 0 auto!important;
+    /*width: max-content;*/
+  }
+  .ads-sticky-ad,
+  .ads-middle-div-three {
+    display: block;
+  }
+}
+
+#ads-loader {
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border-radius: 50%;
+  border: 5px solid transparent;
+  border-top-color: rgba(134, 142, 150, 0.5);
+  -webkit-animation: ads-spin 2s linear infinite;
+  animation: ads-spin 2s linear infinite;
+}
+
+#ads-loader:before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border-radius: 50%;
+  border: 5px solid transparent;
+  border-top-color: rgba(52, 58, 64, 0.5);
+  -webkit-animation: ads-spin 3s linear infinite;
+  animation: ads-spin 3s linear infinite;
+}
+
+#ads-loader:after {
+  content: '';
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 50%;
+  border: 5px solid transparent;
+  border-top-color: rgba(90, 97, 105, 0.5);
+  -webkit-animation: ads-spin 1.5s linear infinite;
+  animation: ads-spin 1.5s linear infinite;
+}
+
+@-webkit-keyframes ads-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes ads-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.ads-logo-container-567 {
+  margin-left: 12px;
+  margin-right: 12px;
+  line-height: 0.7;
+}
+
+.ads-outer-container {
+  background: white;
+}
+
+.ads-text-823 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    sans-serif;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center;
+  color: rgba(134, 142, 150, 0.9);
+  font-weight: 400;
+}
+
+.ads-logo-container-567 img {
+  width: auto;
+  height: 17px;
+  line-height: 17px;
+  display: block;
+  opacity: 0.8;
+}
+
+.ads-info-container-7723 {
+  height: 42px;
+  display: -ms-flexbox;
+  width: 100%;
+  display: flex;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -ms-flex-align: center;
+  align-items: center;
+  background: white;
+}
