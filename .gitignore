@@ -2,3 +2,11 @@ scraping_projects/southpark/data/cache/063d866c06683311b44b4992fd46003be952409c.
 scraping_projects/southpark/data/cache/063d866c06683311b44b4992fd46003be952409c/saved_model.pb
 scraping_projects/southpark/data/cache/063d866c06683311b44b4992fd46003be952409c/variables/variables.data-00000-of-00001
 scraping_projects/southpark/data/cache/063d866c06683311b44b4992fd46003be952409c/variables/variables.index
+other/ml_practise/cache/063d866c06683311b44b4992fd46003be952409c/variables/variables.index
+other/ml_practise/cache/063d866c06683311b44b4992fd46003be952409c/variables/variables.data-00000-of-00001
+other/ml_practise/cache/063d866c06683311b44b4992fd46003be952409c/saved_model.pb
+other/ml_practise/cache/063d866c06683311b44b4992fd46003be952409c.descriptor.txt
+bert/data/cache/063d866c06683311b44b4992fd46003be952409c/saved_model.pb
+bert/data/cache/063d866c06683311b44b4992fd46003be952409c/variables/variables.data-00000-of-00001
+bert/data/cache/063d866c06683311b44b4992fd46003be952409c/variables/variables.index
+bert/data/cache/063d866c06683311b44b4992fd46003be952409c.descriptor.txt

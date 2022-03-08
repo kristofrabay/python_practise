@@ -1,0 +1,11 @@
+1. conda
+    1. conda create --name tf-gpu
+    2. conda activate tf-gpu
+    3. conda install python=3.8
+    4. conda install -c anaconda cudatoolkit=10.1
+    5. conda install -c anaconda cudnn=7.6
+    6. conda install pip
+    7. conda install urllib3
+    8. pip install tensorflow-gpu==2.3
+2. VS Code
+    1. set interpreter to tf-gpu
