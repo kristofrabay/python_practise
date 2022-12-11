@@ -1,0 +1,280 @@
+var error_bg = "orange";
+
+/* TRIM */
+function trim(str, chars) {
+	return ltrim(rtrim(str, chars), chars);
+}
+ 
+function ltrim(str, chars) {
+	chars = chars || "\\s";
+	return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+}
+ 
+function rtrim(str, chars) {
+	chars = chars || "\\s";
+	return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+}
+/* TRIM EDDIG */
+
+/* összeg formázása */
+function formatNumericValue(strValue) {
+	if (typeof(strValue) == 'number') {
+		strValue = ('' + strValue).replace(/\./g,',');
+	} else {
+		strValue = '' + strValue;
+	}
+	var pattern=/^[0-9,\,\.]*$/;
+	if (!pattern.test(strValue)) {
+		return null;
+	}
+	var number = strValue.replace(/\./g,'');
+	if (number.indexOf(',') > -1) {
+		number = number.split (',');
+		number[0] = number[0].toString().split('').reverse().join('').replace(/(?=\d*,?)(\d{3})/g,'$1.').split('').reverse().join('').replace(/^[\.]/,'');
+		if (number[1].length > 2) {
+			number[1] = number[1].substring(0,number[1].length);
+		}
+		return number[0] + ',' + number[1];
+	} else {
+		return number.toString().split('').reverse().join('').replace(/(?=\d*,?)(\d{3})/g,'$1.').split('').reverse().join('').replace(/^[\.]/,'')
+	}
+}
+
+function formatNumeric(input){
+	var formattedValue = formatNumericValue(input.value);
+	if (formattedValue != null) {
+		input.value = formattedValue;
+	}
+}
+
+function delchk() {
+var r=confirm("Biztos törlöd? ");
+if (r==true)  {  return true;  }
+else  {  return false;  }
+}
+
+function sure(kerdes) {
+	var r=confirm(kerdes); if (r==true) { return true; } else { return false; }
+}
+
+function move_chk() {
+	var r=confirm("Biztos indulhat az áthelyezés?");
+	if (r==true)  { return true; } else { return false; }
+}
+
+function jelent_chk(doboz) {
+	var r=confirm("Biztos készülhet a lejelentési táblázat?");
+	if (r==true)  { document.getElementById(doboz).style.display = 'none'; return true; } else { return false; }
+}
+
+function elsz_ment() {
+	if (document.getElementById('elszamolva').value == '0000-00-00') {
+		var r=confirm("Biztos mented a beállításokat?");
+		if (r==true)  { document.getElementById('elszdiv').style.display = 'inline', document.getElementById('feluljut').style.display = 'inline'; return true; } else { return false; }
+	} else {alert("A tétel már elszámolásra került, az adatok nem módosíthatóak!");}
+}
+
+function elszdel_chk() {
+	if ( (document.getElementById('deltip').selectedIndex == '1') && (document.getElementById('delszoveg').value == '') ) {
+		alert("A kikapcsoláshoz, kötelező magyarázó szöveget írni!"); document.getElementById("delszoveg").focus(); return false; }
+		
+	if (document.getElementById('deltip').selectedIndex == '2') {
+		var r=confirm("Biztos, hogy véglegesen törlöd a tételt?\nNEM VISSZAÁLLÍTHATÓ!");
+		if (r==true)  { return true; } else { return false; }
+	}
+	
+	if (document.getElementById('deltip').selectedIndex == '1') {
+		var r=confirm("Biztos, hogy kikapcsolod a tételt?\nVISSZAÁLLÍTHATÓ!");
+		if (r==true)  { return true; } else { return false; }
+	}
+}
+
+function save_back() {
+	top.frames["elszamolasok_lista"].document.getElementById('elsz_button').style.display = 'none';
+}
+
+function nonex() {
+var r=confirm("Biztos, hogy Onexen kívüli elemzéseket választod?\nAz elkészült elemzések törlésre kerülnek!");
+if (r==true)  {  return true;  }
+else  {  return false;  }
+}
+
+function onexre() {
+var r=confirm("Jelenleg Onex-en kívüli elemzések vannak beállítva!\nHa mégis az Onexen készíted el az elemzéseket, az első ONEX-es elemzés elkészültekor, az eddig létrehozott ügyféltájékoztatási dokumentum törlésre kerül és nem fogadható el a jutalék elszámolásához.\nAz elemzések elkészültekor új ügyféltájékoztatási dokumentumot fog létrehozni a rendszer!");
+if (r==true)  {  return true;  }
+else  {  return false;  }
+}
+
+function XHR(data_in,place){
+	var xhr=new XMLHttpRequest();
+	xhr.open("GET","load_cimmod.php?ertek="+data_in);
+	xhr.onload=function(event){
+	document.getElementById(place).innerHTML = event.target.responseText;
+	};
+	xhr.send();
+	document.getElementById(place).innerHTML = "innen megy a kurva anyját:"+data_in;
+	}
+
+function max_osszeg(input,max,tip) {
+	var ossz = input.value;
+	var pattern = /[\W]/g;
+	ossz = ossz.replace(pattern,'');
+	if ( ossz > max) { 
+		switch(tip) {
+			case 1: alert("A maximálisan igényelhető összeg: "+formatNumericValue(max)+".- Ft!"); break;
+			case 2: alert("A maximális futamidő: "+formatNumericValue(max)+" hónap"); break;
+			}
+		input.value = max; }
+	}
+	
+function min_osszeg(input,min) {
+	var ossz = input.value;
+	var pattern = /[\W]/g;
+	ossz = ossz.replace(pattern,'');
+	if ( ossz < min) { 
+		alert("Legalább: "+formatNumericValue(min)+".- Ft-os hitel igénylés szükséges a kedvezményhez!"); 
+		input.value = min; }
+	}
+	
+function min_jov(input,min) {
+	var ossz = input.value;
+	var pattern = /[\W]/g;
+	ossz = ossz.replace(pattern,'');
+	if ( ossz < min) { 
+		alert("Minimum : "+formatNumericValue(min)+".- Ft össz. jövedelem szükséges a kedvezményhez!"); 
+		
+		input.value = min; }
+	}
+	
+function maximum(input,max) {
+	var ossz = input.value;
+	var pattern = /[\W]/g;
+	ossz = ossz.replace(pattern,'');
+	if ( ossz > max) { 
+		alert("Legfeljebb: "+formatNumericValue(max)+".- Ft!!"); 
+		input.value = max; return false;  }
+	}
+	
+function maximum2(input,max) {
+	var ossz = input.value;
+	var pattern = /[\W]/g;
+	ossz = ossz.replace(pattern,'');
+	if ( ossz > max) { 
+		alert("Legfeljebb: "+max); 
+		input.value = max; return false;  }
+	}
+	
+function hovalt(input,cel,tip) {
+	var x = document.getElementById("honap");
+	var ho = input.value;
+	var ev = Math.floor(ho/12);
+	var ev_tor = ev*12;
+	var marad = input.value - ev_tor;
+	switch(tip) {
+		case 1: x.innerHTML = ev + " év " + marad + " hónap múlva fizeti vissza"; break;
+		case 2: x.innerHTML = ev + " év " + marad + " hónap múlva veheti fel"; break;
+	}
+}
+
+function plusz_szoveg(input,cel) {
+	var x = document.getElementById("plusz");
+	//var y = input.value;
+	x.innerHTML = input.value;
+}
+
+function max_hitel(input,resz,cel) {
+	var ossz = input.value;
+	var pattern = /[\W]/g;
+	ossz = ossz.replace(pattern,'');
+	var max = (ossz * (resz/100));
+	cel.value = formatNumericValue(max); 
+}
+
+function mutat(subject) { 
+	if(document.getElementById(subject).style.display=='none') 
+		{ document.getElementById(subject).style.display='inline'; 
+		//var t = document.getElementById("target");
+		//t.className = "fader"; 
+		}
+	}
+
+function nyit(subject) { 
+	if ( document.getElementById(subject).style.display == 'block') { document.getElementById(subject).style.display = 'none'; } 
+	
+	else { document.getElementById(subject).style.display = 'block'; 
+		
+		} 
+	
+	}
+
+function rejt(subject) { if ( (document.getElementById(subject).style.display=='block') || (document.getElementById(subject).style.display=='inline') || (document.getElementById(subject).style.display=='') ) { document.getElementById(subject).style.display='none'; } }
+function zar(subject) { if  ( document.getElementById(subject).style.display == 'block') { document.getElementById(subject).style.display = 'none'; } }
+
+function rejt_top(subject) { if ( (top.frames.document.getElementById(subject).style.display=='block') || (top.frames.document.getElementById(subject).style.display=='inline') || (top.frames.document.getElementById(subject).style.display=='visible') ) { top.frames.document.getElementById(subject).style.display='none'; } }
+function mutat_top(subject) { if ( (top.frames.document.getElementById(subject).style.display!='inline') ) { top.frames.document.getElementById(subject).style.display='inline'; } }
+
+function save_form(myform,place,url) {
+var x = document.getElementById(myform);
+var out_data = url+"?ertek=";
+var i;
+for (i = 0; i < x.length; i++) {
+  out_data = out_data + x.elements[i].value + "*";
+}
+	//XHR(out_data,place);
+	load(out_data,place,1);
+}
+
+
+function load(url,place,pr) {
+	switch(pr) {
+	case 1: document.getElementById(place).innerHTML = "<div style=\"text-align:center;font-family: Arial; font-size:12px; font-weight:bold;\">... [ adatok töltése ] ...<br><img src=ajax-loader.gif></div>"; break;
+	case 2: break;
+	}
+ var req = null;
+ if (window.XMLHttpRequest)
+  req = new XMLHttpRequest()
+ else
+  if (window.ActiveXObject) req = new ActiveXObject("Microsoft.XMLHTTP");
+
+ req.onreadystatechange = function() {
+  if (req.readyState == 4)
+   if (req.status == 200)
+	
+    document.getElementById(place).innerHTML = req.responseText;
+   else
+    document.getElementById(place).innerHTML = "AJAX error:"+req.status;
+ } 
+ req.open("GET", url, true); 
+ req.send(null);
+} 
+
+function load_top(url,place,pr) {
+	switch(pr) {
+	case 0: top.frames.document.getElementById(place).innerHTML = "<div style=\"text-align:center;font-family: Arial; font-size:12px; font-weight:bold;\">... [ adatok töltése ] ...<br><img src=ajax-loader.gif></div>"; break;
+	}
+ var req = null;
+ if (window.XMLHttpRequest)
+  req = new XMLHttpRequest()
+ else
+  if (window.ActiveXObject) req = new ActiveXObject("Microsoft.XMLHTTP");
+
+ req.onreadystatechange = function() {
+  if (req.readyState == 4)
+   if (req.status == 200)
+	
+    top.frames.document.getElementById(place).innerHTML = req.responseText;
+   else
+    top.frames.document.getElementById(place).innerHTML = "AJAX error:"+req.status;
+ } 
+ req.open("GET", url, true); 
+ req.send(null);
+}
+
+/* bankszámla formázása */
+function format_banksz(input) {
+	var number = document.getElementById(input).value;
+	if (number.length == 8) { document.getElementById(input).value = number + '-'; }
+	if (number.length == 17) { document.getElementById(input).value = number + '-'; }
+
+	//document.getElementById('teszt').value = number.length;
+}
